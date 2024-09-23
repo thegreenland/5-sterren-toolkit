@@ -1,0 +1,7 @@
+site_name: 5-sterren model voor transparante algoritmes
+theme:
+  name: material
+  font: 
+    text: Karla
+  palette: 
+    primary: teal
