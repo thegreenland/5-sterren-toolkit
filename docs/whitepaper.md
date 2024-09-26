@@ -1,5 +1,5 @@
 
-## Whitepaper
+# Whitepaper
 
 ```
 Door: de 5 sterren-community
@@ -20,7 +20,7 @@ Tenslotte wordt er in beleid en wetgeving veel gehamerd op transparantie en open
 
 Effect: Ondanks dat het belang van transparantie over de inzet van algoritmes duidelijk is, leidt de hierboven beschreven situatie binnen overheidsorganisaties – zowel bij bestuurders en management als in de uitvoering – tot handelingsverlegenheid, verwarring, aarzeling en frustratie bij het realiseren van transparantie en openheid rond algoritmes in de praktijk. Dat vormt een barrière voor de verantwoorde inzet van algoritmes door overheden, wat leidt tot maatschappelijk wantrouwen en zelfs schending van mensenrechten. 
 
-### 2. Context
+## 2. Context
 Het belang van transparantie, en waarom de uitvoering ervan lastig is
 
 Transparantie – in de context van algoritmes – is als principe of vereiste sterk verankerd in wetgeving, beleid, richtlijnen en kaders. Deze documenten wekken de suggestie dat transparantie een soort moreel of maatschappelijk eindpunt is.  Maar het is cruciaal om transparantie niet als einddoel te zien, maar als een middel om een hoger doel te bereiken: inzicht bieden in de manier waarop overheidsorganisaties hun taken (met behulp van algoritmes) uitvoeren, daar als overheid verantwoording over af te kunnen leggen, en het mogelijk maken van publiek toezicht op de kwaliteit en rechtvaardigheid waarmee de overheid haar taken uitvoert. Transparantie is daarmee een essentiële voorwaarde voor het verantwoord inzetten van algoritmes. 

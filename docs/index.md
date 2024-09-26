@@ -5,9 +5,3 @@
 Welkom in de toolkit.
 
 
-### Why
-
-### What
-
-### How
-
