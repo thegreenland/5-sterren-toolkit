@@ -9,4 +9,9 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+  nav:
+    - Home: index.md
+    - Toolkit: 
+      - Whitepaper / visiedocument: whitepaper.md
+      - Model / keuzehulp: model.md
   
