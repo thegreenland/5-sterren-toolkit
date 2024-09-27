@@ -4,6 +4,7 @@
 ***Welkom in de toolkit! Ga direct naar:***
 
 *- [het Whitepaper / visiedocument](whitepaper.md)*
+
 *- [het Model / de keuzehulp](model.md)*
 
 
