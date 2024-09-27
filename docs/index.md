@@ -3,9 +3,9 @@
 
 ***Welkom in de toolkit! Ga direct naar:***
 
-*- [het Whitepaper / visiedocument](whitepaper.md)*
-
-*- [het Model / de keuzehulp](model.md)*
+*- [het Whitepaper (visiedocument)](whitepaper.md)*
+&nbsp;
+*- [het Model (keuzehulp)](model.md)*
 
 
 ## **Van *black-box* naar een 5 sterren-algoritme!**
