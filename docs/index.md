@@ -1,14 +1,13 @@
 # **Het 5-sterren model voor transparante algoritmes**
 
 
-Welkom in de toolkit. Ga direct naar:
+***Welkom in de toolkit! Ga direct naar:***
 
-- [het Whitepaper / visiedocument](whitepaper.md)
-- [het Model / de keuzehulp](model.md)
+*- [het Whitepaper / visiedocument](whitepaper.md)*
+*- [het Model / de keuzehulp](model.md)*
 
 
-
-## **Van black-box naar 5 stars!**
+## **Van *black-box* naar een 5 sterren-algoritme!**
 
 
 Met de komst van het algoritmeregister en de aangenomen AI verordening is transparantie over het gebruik van algoritmen een belangrijk thema op dit gebied. We zijn daarom bij The Green Land al een tijd aan de slag met het 5 sterren-model voor open algoritmen, geïnspireerd op de 5 sterren voor linked open data van Tim Berners-Lee. Het model geeft organisaties die algoritmen inzetten inzicht in welke stappen er gezet kunnen worden om transparantie daarover te bevorderen.
