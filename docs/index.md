@@ -1,21 +1,17 @@
 # **Het 5-sterren model voor transparante algoritmes**
 
 
-***Welkom in de toolkit! Ga direct naar:***
+***Welkom in de online toolkit! Ga direct naar:***
 
 *- [het Whitepaper (visiedocument)](whitepaper.md)*
 &nbsp;
 *- [het Model (keuzehulp)](model.md)*
 
 
-## **Van *black-box* naar een 5 sterren-algoritme!**
+## **Van *black-box* algoritmes naar een 5-sterren-transparantie!**
 
+Er is vanuit de samenleving een groeiende zorg rond de inzet en ontwikkeling van algoritmes in (besluitvormings)processen in het openbaar bestuur. Niet alleen de manier waarop de overheid besluiten neemt over burgers is voor hen ondoorzichtig; ook de algoritmische systemen die daarvoor worden ingekocht en toegepast zijn lastig te doorgronden, ook voor ambtenaren zelf. Dit heeft niet alleen negatieve impact op de informatiepositie van burgers, maar ook op die van de overheid ten opzichte van de technologie die ze zelf inzet. Daardoor groeit de druk op de overheid om meer openheid en transparantie te bieden over algoritmes, om inzicht te krijgen in hoe de algoritmes werken die nu al op grote schaal worden ingezet. Anders gezegd: transparantie is nodig om als overheid grip te krijgen op manier waarop besluitvorming tot stand komt en wat de impact daarvan op mensen is, en om als burger beter in staat te zijn om te begrijpen hoe de overheid haar taken uitvoert. 
 
-Met de komst van het algoritmeregister en de aangenomen AI verordening is transparantie over het gebruik van algoritmen een belangrijk thema op dit gebied. We zijn daarom bij The Green Land al een tijd aan de slag met het 5 sterren-model voor open algoritmen, geïnspireerd op de 5 sterren voor linked open data van Tim Berners-Lee. Het model geeft organisaties die algoritmen inzetten inzicht in welke stappen er gezet kunnen worden om transparantie daarover te bevorderen.
+In beleid en wetgeving wordt al veel nadruk gelegd op transparantie en openheid als principe of uitgangspunt - zoals te zien aan de vele Algoritmeregisters - maar het ontbreekt nog aan een uitvoerbare of eenduidige vertaling naar de praktijk: waarover moet precies transparantie of openheid geboden worden, op welke doelgroep zou dit gericht moeten worden en met welk eindresultaat, en hoe zouden deze maatregelen dan vorm moeten krijgen in de technische of organisatorische praktijk? Daarnaast zijn overheden vaak afhankelijk van de expertise van (commerciële) derde partijen voor het ontwikkelen van deze technologie, die uit zakelijke overwegingen niet altijd even bereid zijn om daarover transparantie en openheid te bieden. Dit leidt bij (bestuurders van) overheidsorganisaties tot handelingsverlegenheid, verwarring, aarzeling en frustratie bij het realiseren van transparantie en openheid rond algoritmes in de praktijk, met maatschappelijk wantrouwen en zelfs schending van mensenrechten als gevolg. 
 
-Samen met een community van betrokken mensen uit het veld hebben we dit idee al verder vormgegeven. In een van de laatste bijeenkomsten die we hiervoor hebben georganiseerd heeft de Open State Foundation zich als ‘hoeder’ over het 5 sterrenmodel ontfermd. Deze mooie ontwikkeling heeft ertoe geleid dat we de samenwerking op dit gebied wilden versterken, en dat kunnen we nu gaan doen dankzij een subsidie van de maatschappelijke coalitie Over Informatie Gesproken!
-
-In dit project gaan we in gesprek met zowel ambtenaren als burgers om dieper in te gaan op wat zij nodig hebben; wat vinden burgers belangrijk om inzicht in te krijgen, en wat hebben organisaties nodig om dit mogelijk te maken? Die inzichten gebruiken we om het 5 sterrenmodel verder uit te werken tot een tool of toolkit die helpt bij het in de praktijk brengen van de verschillende stappen van het model. De resultaten presenteren we op het ECP Jaarfestival op 21 november.
-
-Wil je ons (als overheidsprofessional of als burger) met dit project helpen door jouw gedachten en perspectieven met ons te delen? Super! Stuur dan een bericht naar fenna@thegreenland.eu
-
+Het project *Transparante algoritmen: van black box naar vijf sterren* richt zich op het ontwikkelen van een praktische toolkit voor bestuurders in de publieke sector, geïnspireerd op het “5 Star Open Data” model van Tim Berners-Lee. Om dit te realiseren onderzoeken we inzichten van experts van binnen en buiten de overheid, maar betrekken daarnaast ook diverse perspectieven uit de samenleving d.m.v. een burgerpanel. De toolkit zal bestaan uit 2 componenten: een ‘visiedocument’ dat als leidraad gebruikt kan worden voor het opstellen van organisatorische ambities rond transparantie en het creëren van bewustzijn op bestuursniveau, en een ‘model’ om praktische handvatten te bieden voor het stapsgewijs realiseren van transparantie binnen overheidsorganisaties. 
