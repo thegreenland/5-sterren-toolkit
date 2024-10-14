@@ -9,6 +9,9 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - navigation.sections
+    - navigation.sections.expand
+    - toc.integrate
 nav:
   - Home: index.md
   - Toolkit: 
