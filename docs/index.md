@@ -1,7 +1,9 @@
 # **Het 5-sterren model voor transparante algoritmes**
 
 
-***Welkom in de online toolkit! Ga direct naar:***
+***Hallo, strijder voor openheid! Welkom in de online toolkit.
+
+Ga direct naar:***
 
 *- [het Whitepaper (visiedocument)](whitepaper.md)*
 &nbsp;
