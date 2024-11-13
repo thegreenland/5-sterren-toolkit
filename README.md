@@ -1,4 +1,4 @@
-# 5-sterren-docs
+# 5-sterren-toolkit
 
 ### Welkom op de open online 'documentatie' voor het 5 sterren-model voor transparante algoritmes! 
 
