@@ -1,4 +1,4 @@
-# **Het 5-sterren model voor transparante algoritmes**
+# **Het 5 sterren-model voor transparante algoritmes**
 
 
 ***Hallo, mede-strijder voor openheid! Welkom in de online toolkit.***
