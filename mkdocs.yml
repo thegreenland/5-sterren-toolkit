@@ -14,8 +14,5 @@ theme:
     - toc.integrate
 nav:
   - Home: index.md
-  - Model: model.md
   - Whitepaper: whitepaper.md
-
-
-  
+  - Model: model.md
