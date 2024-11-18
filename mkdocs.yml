@@ -1,4 +1,4 @@
-site_name: 5-sterren model voor transparante algoritmes
+site_name: 5 sterren-model voor transparante algoritmes
 theme:
   name: material
   font: 
@@ -14,9 +14,9 @@ theme:
     - toc.integrate
 nav:
   - Home: index.md
-  - Toolkit: 
-    - Whitepaper / visiedocument: whitepaper.md
-    - Model / keuzehulp: model.md
+  - Model: model.md
+  - Whitepaper: whitepaper.md
+  - Community:
 
 
   
