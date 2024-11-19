@@ -12,6 +12,7 @@ theme:
     - navigation.sections
     - navigation.sections.expand
     - toc.integrate
+  logo: 6.svg
 nav:
   - Home: index.md
   - Whitepaper: whitepaper.md
