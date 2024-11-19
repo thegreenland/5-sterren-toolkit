@@ -12,7 +12,7 @@ theme:
     - navigation.sections
     - navigation.sections.expand
     - toc.integrate
-  logo: 6.svg
+  logo: img/5 sterrenmodel voor.svg
 nav:
   - Home: index.md
   - Whitepaper: whitepaper.md
