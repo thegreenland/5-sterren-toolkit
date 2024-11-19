@@ -1,6 +1,7 @@
 # Het 5 sterrenmodel
 
-![5-sterren-model](./img/5s-model.png)
+Hieronder wordt het model per ster toegelicht.
+![Het 5 sterren-model](./img/model-kleur.svg)
 
 
 ## 1★ GEPUBLICEERD
