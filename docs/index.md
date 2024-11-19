@@ -1,13 +1,13 @@
 # **Het 5 sterren-model voor transparante algoritmes**
 
 
-***Hallo, mede-strijder voor openheid! Welkom in de online toolkit.***
+***Hallo, mede-strijder voor openheid! Welkom in de online toolkit voor transparante algoritmes.***
 
-***Ga direct naar:***
 
-*- [het Whitepaper (visiedocument)](whitepaper.md)*
-&nbsp;
-*- [het Model (keuzehulp)](model.md)*
+
+## Blijf op de hoogte
+
+[Meld je hier aan](https://cloud.tgl.eu/apps/forms/s/eCN9zCWMPwzzWN9Fae4Csb4S)*
 
 
 ## **Van *black-box* algoritmes naar een 5-sterren-transparantie!**
