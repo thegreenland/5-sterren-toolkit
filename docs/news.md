@@ -27,7 +27,36 @@ Vergoeding: je krijgt een bon van 75 euro
 
 Meld je aan en doe mee!
 
---------
+-----------
+## 26-07-2024 Nieuws: Subsidie voor 5 sterren!
+
+**Van black-box naar transparante algoritmes**
+
+Met de komst van het algoritmeregister en de aangenomen AI verordening is transparantie over het gebruik van algoritmen een belangrijk thema op dit gebied. We zijn daarom bij The Green Land al een tijd aan de slag met het 5 sterren-model voor open algoritmen, geïnspireerd op de 5 sterren voor linked open data van Tim Berners-Lee. Het model geeft organisaties die algoritmen inzetten inzicht in welke stappen er gezet kunnen worden om transparantie daarover te bevorderen.
+
+Samen met een community van betrokken mensen uit het veld hebben we dit idee al verder vormgegeven. In een van de laatste bijeenkomsten die we hiervoor hebben georganiseerd heeft de Open State Foundation zich als ‘hoeder’ over het 5 sterrenmodel ontfermd. Deze mooie ontwikkeling heeft ertoe geleid dat we de samenwerking op dit gebied wilden versterken, en dat kunnen we nu gaan doen dankzij een subsidie van de maatschappelijke coalitie Over Informatie Gesproken!
+
+In dit project gaan we in gesprek met zowel ambtenaren als burgers om dieper in te gaan op wat zij nodig hebben; wat vinden burgers belangrijk om inzicht in te krijgen, en wat hebben organisaties nodig om dit mogelijk te maken? Die inzichten gebruiken we om het 5 sterrenmodel verder uit te werken tot een tool of toolkit die helpt bij het in de praktijk brengen van de verschillende stappen van het model. De resultaten presenteren we op het ECP Jaarfestival op 21 november.
+
+Wil je ons (als overheidsprofessional of als burger) met dit project helpen door jouw gedachten en perspectieven met ons te delen? Super! Stuur dan een bericht naar fenna@thegreenland.eu
+
+------------
+## 24-01-2024 Uitnodiging: Kom ook!
+
+𝐎𝐩 𝐰𝐨𝐞𝐧𝐬𝐝𝐚𝐠 28 𝐟𝐞𝐛𝐫𝐮𝐚𝐫𝐢 𝐨𝐫𝐠𝐚𝐧𝐢𝐬𝐞𝐫𝐞𝐧 𝐰𝐞 𝐞𝐞𝐧 𝐯𝐞𝐫𝐯𝐨𝐥𝐠𝐛𝐢𝐣𝐞𝐞𝐧𝐤𝐨𝐦𝐬𝐭 𝐨𝐯𝐞𝐫 𝐡𝐞𝐭 5 𝐬𝐭𝐞𝐫𝐫𝐞𝐧𝐦𝐨𝐝𝐞𝐥 𝐛𝐢𝐣 𝐓𝐡𝐞 𝐆𝐫𝐞𝐞𝐧 𝐋𝐚𝐧𝐝 𝐢𝐧 𝐔𝐭𝐫𝐞𝐜𝐡𝐭.
+
+Wat is het 5 sterrenmodel? Het is een scoresysteem (à la het 5 sterren open data model van uitvinder des internets Tim Berners-Lee) waarin duidelijk staat aangegeven aan welke voorwaarden voldaan moet zijn om een bepaald niveau van transparantie over algoritmes te bereiken.
+
+We hebben in 2023 al twee inspirerende bijeenkomsten gehad en zetten deze graag voort. De bijeenkomsten zijn bedoeld om ideeën en ervaringen rondom transparantie van algoritmen uit te wisselen, de community rondom dit thema te versterken en het 5 sterrenmodel verder te brengen. Heb je ideeën of wensen voor de invulling van het programma, laat dat dan weten bij je aanmelding! Aanmelden kan hier: https://lnkd.in/ePMAhUmV
+
+👤𝐕𝐨𝐨𝐫 𝐰𝐢𝐞 is deze bijeenkomst? Voor iedereen die mee wil werken aan de transparantie van publieke algoritmen. Of je nou bij de overheid werkt, algoritmen maakt, onderzoekt, of als burger graag wil weten hoe algoritmen worden gebruikt.
+
+ℹ️ Woensdag 28 februari, 15:15-17:00 (inloop vanaf 15:00)
+Vondellaan 2 (souterrain), Utrecht
+
+Graag tot dan!
+
+------------
 
 ## 27-11-2023 Blog: Hoe verder met de beweging?
 Door: Mike Lensink
@@ -59,6 +88,17 @@ Kortom: er is een mooie beweging ingezet en dus willen we nu heel graag samen me
 - Het opzetten en inrichten van een virtuele plek op het web, zodat het gedachtegoed vindbaar en leesbaar is voor een breder publiek en waar we eventueel ook (via een platform) laagdrempelig elkaar op de hoogte kunnen houden van interessante ontwikkelingen en van gedachten kunnen wisselen. We hebben de domeinnaam alvast geregistreerd: www.5sterrenalgoritmen.nl. De volgende stap is nadenken over hoe deze plek in te richten: wat is een mooie manier om ons digitaal te organiseren en te profileren? Welk platform/tool sluit goed aan bij het verder brengen van het model?
 
 Wil je meedoen, en/of heb je andere ideeën, input of feedback? We horen het heel graag, dus stuur ons vooral een bericht of bel ons!
+
+----------------------
+## 12-10-2023 Uitnodiging: Doe mee! 
+
+Een tijdje terug deelden we met jullie het idee voor een 5 sterrenmodel voor open algoritmen. Vanwege jullie enthousiaste reacties zijn we verder met het model aan de slag gegaan. En nu willen we graag met jullie het model een stapje verder brengen! Want wanneer is er aan een ster voldaan? Hoe kan het model in de praktijk gebracht worden? Denk met ons mee!
+
+Samen met Willy Tadema AI Ethics Lead bij het Rijks ICT Gilde organiseren we woensdag 8 november van 15:00-17:00 een 5 sterren-sessie bij The Green Land in Utrecht, met een gezellige borrel na afloop!
+
+Voor wie? Iedereen die mee wil werken aan de transparantie van publieke algoritmen. Of je nou bij de overheid werkt, algoritmen bouwt, onderzoekt, of als burger graag wil weten hoe algoritmen worden gebruikt.
+
+Tot dan!
 
 ----------------------
 
