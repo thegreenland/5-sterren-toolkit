@@ -4,7 +4,7 @@
 ### Het 5 sterrenmodel voor transparantie rond algoritmes: hoe verder met de beweging?
 Door: Mike Lensink
 
-Het idee
+**Het idee**
 
 Het ontwikkelen en inzetten van algoritmes door overheden moet echt anders, meer transparant, meer verantwoord. Op 8 november 2023 – tijdens de bijeenkomst over het 5 sterrenmodel – werd bevestigd wat we in eerdere gesprekken met ons netwerk al dachten te proeven: de urgentie hiervan en de wil om dit probleem aan te pakken lijkt júist bij publieke organisaties zelf het grootst te zijn. Bovendien zit daar een enorme rijkdom aan expertise en kennis; meer dan genoeg in ieder geval om hier een prachtige oplossing voor te bedenken.
 
@@ -19,7 +19,7 @@ Tijdens het eerdergenoemde evenement kwamen we met allerlei partijen uit het vel
     Hoe kunnen de criteria en voorwaarden van het model verbeterd worden?
     Hoe ga je om met het feit dat organisaties niet altijd volledig transparant kunnen zijn?
 
-Vervolgplannen
+#### Vervolgplannen
 
 Kortom: er is een mooie beweging ingezet en dus willen we nu heel graag samen met de community doorpakken. De vraag is: wat zijn op dit moment de meest waardevolle taken om samen op te pakken, en hoe organiseren we dat? Op het evenement hebben we met elkaar bedacht dat de volgende stappen een mooi vervolg zouden zijn:
 
@@ -36,6 +36,7 @@ Door: Fenna Woudstra
 In december 2022 is het Algoritmeregister van de overheid officieel gelanceerd. Het doel van dit register is om transparantie te bieden over het gebruik van algoritmen door de overheid. Overheidsorganisaties publiceren via dit register informatie over de algoritmen die zij gebruiken, zoals het doel, het type algoritme, juridische informatie, en de mogelijke impact en risico’s.
 Toch wordt er kritiek geleverd op het algoritmeregister, omdat er vaak niet voldoende informatie in staat om daadwerkelijk te begrijpen en/of controleren hoe het algoritme werkt, en of het tot goede en eerlijke uitkomsten leidt.
 Daarom is het interessant om te kijken hoe we nog een stapje verder kunnen gaan met het algoritmeregister. Wat voor informatie is nog meer nuttig om inzicht te krijgen in de werking van het algoritme? En hoe kunnen we overheden stimuleren om dit transparant te maken?
+
 Een schitterend idee
 
 Op donderdag 30 maart was de Public Tech Unconference van Code for NL. Hier presenteerde Willy Tadema (AI Ethics Lead van het Rijks ICT Gilde) haar idee voor een 5-sterrenmodel voor open algoritmen. Geïnspireerd door de 5 sterren voor Linked Open Data (van Tim Berners-Lee), kunnen er aan algoritmen sterren toegekend worden die aangeven in hoeverre het een open algoritme is.
@@ -54,6 +55,7 @@ Dit is het model zoals Willy Tadema het voorstelt:
 5. Broncode van het algoritme en training/validatie/test data publiceren. In geval van privacygevoelige gegevens zou in plaats van ‘echte’ data ook synthetische data gedeeld kunnen worden
 
 Het 5-sterrenmodel biedt organisaties een handelingsperspectief: wat kan er gedaan worden om meer transparant te zijn over algoritmen? Natuurlijk moet er rekening gehouden worden met privacy, ‘gaming the system’, of het intellectueel eigendom van algoritmen. Hierdoor is het niet altijd haalbaar om alles openbaar te maken. Maar het overzicht van de mogelijkheden dat het sterrenmodel geeft, helpt om een afweging te maken over wat wél kan worden gepubliceerd.
+
 Laat je horen!
 
 Wij denken dat het toekennen van sterren een leuke manier is om overheden te stimuleren hun algoritmen waar het kan zo open mogelijk te maken. Want wie wil er nou geen 5-sterrenalgoritmen?
