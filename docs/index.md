@@ -7,7 +7,8 @@
 
 ## Blijf op de hoogte
 
-[Meld je hier aan](https://cloud.tgl.eu/apps/forms/s/eCN9zCWMPwzzWN9Fae4Csb4S)*
+Binnenkort wordt ook het whitepaper van de 5 sterren-community gedeeld. Wil je bericht ontvangen als het zover is?
+[Meld je dan hier aan](https://cloud.tgl.eu/apps/forms/s/eCN9zCWMPwzzWN9Fae4Csb4S) om op de hoogte te worden gehouden!
 
 
 ## **Van *black-box* algoritmes naar een 5-sterren-transparantie!**
