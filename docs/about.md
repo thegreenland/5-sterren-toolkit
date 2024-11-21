@@ -15,4 +15,4 @@ Het 5 sterren-model is een lopend project dat wordt ontwikkeld en beheerd door e
 
 ## Contact
 
-Heb je vragen of ideeën, wil je mee doen of denken, neem dan gerust contact met ons op!
+Heb je vragen of ideeën, of wil je met het model aan de slag, neem dan gerust contact met ons op! Dit kan door een bericht achter te laten via [dit formulier](https://cloud.tgl.eu/apps/forms/s/MGQ7ACacimwkM4wjWxd9QFPe). 
