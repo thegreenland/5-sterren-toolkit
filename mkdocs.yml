@@ -20,5 +20,6 @@ nav:
   - Model: model.md
   - Nieuws: news.md
   - Over 5 sterren: about.md
+  - Excalidraw: githubexcalidrawtest.md
 markdown_extensions:
   - attr_list
