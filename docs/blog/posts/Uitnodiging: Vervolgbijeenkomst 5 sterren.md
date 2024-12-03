@@ -7,7 +7,7 @@ categories:
 
 Wat is het 5 sterrenmodel? Het is een scoresysteem (à la het 5 sterren open data model van uitvinder des internets Tim Berners-Lee) waarin duidelijk staat aangegeven aan welke voorwaarden voldaan moet zijn om een bepaald niveau van transparantie over algoritmes te bereiken.
 
-We hebben in 2023 al twee inspirerende bijeenkomsten gehad en zetten deze graag voort. De bijeenkomsten zijn bedoeld om ideeën en ervaringen rondom transparantie van algoritmen uit te wisselen, de community rondom dit thema te versterken en het 5 sterrenmodel verder te brengen. Heb je ideeën of wensen voor de invulling van het programma, laat dat dan weten bij je aanmelding! Aanmelden kan hier: https://lnkd.in/ePMAhUmV
+We hebben in 2023 al twee inspirerende bijeenkomsten gehad en zetten deze graag voort. De bijeenkomsten zijn bedoeld om ideeën en ervaringen rondom transparantie van algoritmen uit te wisselen, de community rondom dit thema te versterken en het 5 sterrenmodel verder te brengen. Heb je ideeën of wensen voor de invulling van het programma, laat dat dan weten bij je aanmelding! Aanmelden kan [hier.](https://lnkd.in/ePMAhUmV)
 
 👤𝐕𝐨𝐨𝐫 𝐰𝐢𝐞 is deze bijeenkomst? Voor iedereen die mee wil werken aan de transparantie van publieke algoritmen. Of je nou bij de overheid werkt, algoritmen maakt, onderzoekt, of als burger graag wil weten hoe algoritmen worden gebruikt.
 
