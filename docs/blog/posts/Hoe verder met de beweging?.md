@@ -3,11 +3,12 @@ date: 2023-11-27
 categories:
 - Updates
 ---
-**Het idee**
 
 Het ontwikkelen en inzetten van algoritmes door overheden moet echt anders, meer transparant, meer verantwoord. Op 8 november 2023 – tijdens de bijeenkomst over het 5 sterrenmodel – werd bevestigd wat we in eerdere gesprekken met ons netwerk al dachten te proeven: de urgentie hiervan en de wil om dit probleem aan te pakken lijkt júist bij publieke organisaties zelf het grootst te zijn. Bovendien zit daar een enorme rijkdom aan expertise en kennis; meer dan genoeg in ieder geval om hier een prachtige oplossing voor te bedenken.
 
 Tegelijkertijd zien we dat de gehele publieke sector worstelt met de vraag: hoe moet dat dan precies? Wanneer is het transparant (genoeg), hoe ziet “ethisch verantwoord” er dan precies uit? In de ontstane institutionele paniek is vanuit allerlei lagen van de overheid een vloedgolf aan (toekomstige) wetten, richtlijnen, gedragscodes, kaders, en toolkits over het werkveld gespoeld. Maar veel van deze goed bedoelde hulpmiddelen laten zich lastig vertalen naar eenduidige en uitvoerbare maatregelen en verantwoordelijkheden. We zien dus een enorme ambitie binnen de publieke sector om het beter te doen, maar ook verwarring en frustratie vanwege onduidelijkheid voor degenen die verantwoordelijk zijn.
+
+**Het idee**
 
 Het idee achter het 5 sterrenmodel is om hiervoor een oplossing te bieden. Het is een scoresysteem (à la uitvinder des internets Tim Berners-Lee) waarin duidelijk staat aangegeven aan welke voorwaarden voldaan moet zijn om een bepaald niveau van transparantie te bereiken. Niet alleen draagt dit bij aan een gedeelde taal om te kunnen praten over wat transparantie precies inhoudt; ook wordt het zo voor organisaties mogelijk om te zien waar ze staan, welke ambities ze vast kunnen stellen, waar ze moeten beginnen met verbeteren, en op welke manier.
 
