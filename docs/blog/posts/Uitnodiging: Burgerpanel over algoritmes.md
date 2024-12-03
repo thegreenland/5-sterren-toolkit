@@ -4,9 +4,7 @@ categories:
 date: 2024-09-30
 ---
 
-## Uitnodiging: Burgerpanel over algoritmes
-
-**Praat mee over het gebruik van algoritmes door de overheid**
+## Praat mee over het gebruik van algoritmes door de overheid
 
 De overheid gebruikt steeds vaker speciale computerprogramma’s, die algoritmes worden genoemd, om hun werk te doen. Daar kun jij ook mee te maken krijgen.
 
@@ -14,7 +12,7 @@ Wat betekent dat voor jou? Wat wil jij weten als de overheid deze technologie ge
 
 Op maandag 28 oktober organiseren we daarom een bijeenkomst om hier samen over te praten.
 
-**Wie organiseren deze avond?**
+### Wie organiseren deze avond?
 
 Deze avond wordt georganiseerd door Open State Foundation en The Green Land. Deze organisaties onderzoeken samen hoe de overheid meer kan uitleggen over de technologie die wordt gebruikt. Zodat burgers beter begrijpen hoe de overheid werkt.
 
@@ -25,8 +23,11 @@ Iedereen die ouder is dan 18 jaar en in Nederland woont, is welkom. Het maakt ni
 **Praktische informatie**
 
 Wanneer: Maandag 28 oktober
-Tijd: 19:30 – 21:00
-Locatie: in Utrecht, locatie volgt na aanmelding
-Vergoeding: je krijgt een bon van 75 euro
+
+- Tijd: 19:30 – 21:00
+
+- Locatie: in Utrecht, locatie volgt na aanmelding
+
+- Vergoeding: je krijgt een bon van 75 euro
 
 Meld je aan en doe mee!
