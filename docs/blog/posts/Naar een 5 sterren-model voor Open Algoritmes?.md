@@ -9,7 +9,7 @@ Daarom is het interessant om te kijken hoe we nog een stapje verder kunnen gaan 
 
 **Een schitterend idee**
 
-Op donderdag 30 maart was de Public Tech Unconference van Code for NL. Hier presenteerde Willy Tadema (AI Ethics Lead van het Rijks ICT Gilde) haar idee voor een 5-sterrenmodel voor open algoritmen. Geïnspireerd door de 5 sterren voor Linked Open Data (van Tim Berners-Lee), kunnen er aan algoritmen sterren toegekend worden die aangeven in hoeverre het een open algoritme is.
+Op donderdag 30 maart was de Public Tech Unconference van Code for NL. Hier presenteerde Willy Tadema (AI Ethics Lead van het Rijks ICT Gilde) haar idee voor een 5 sterren-model voor open algoritmen. Geïnspireerd door de 5 sterren voor Linked Open Data (van Tim Berners-Lee), kunnen er aan algoritmen sterren toegekend worden die aangeven in hoeverre het een open algoritme is.
 Een beschrijving in het algoritmeregister is een goede eerste stap – of ster. Dit geeft inzicht in de context waarin het algoritme gebruikt wordt. Als daarbij ook nog andere gegevens gepubliceerd worden, bijvoorbeeld de resultaten van een audit, of de monitoringsdata van een algoritme, komen er meer sterren bij. Deze extra gegevens bieden experts, journalisten en andere geïnteresseerden de mogelijkheid om echt te onderzoeken hoe het algoritme werkt.
 
 Dit is het model zoals Willy Tadema het voorstelt:
@@ -24,10 +24,10 @@ Dit is het model zoals Willy Tadema het voorstelt:
 
 5. Broncode van het algoritme en training/validatie/test data publiceren. In geval van privacygevoelige gegevens zou in plaats van ‘echte’ data ook synthetische data gedeeld kunnen worden
 
-Het 5 sterrenmodel biedt organisaties een handelingsperspectief: wat kan er gedaan worden om meer transparant te zijn over algoritmen? Natuurlijk moet er rekening gehouden worden met privacy, ‘gaming the system’, of het intellectueel eigendom van algoritmen. Hierdoor is het niet altijd haalbaar om alles openbaar te maken. Maar het overzicht van de mogelijkheden dat het sterrenmodel geeft, helpt om een afweging te maken over wat wél kan worden gepubliceerd.
+Het 5 sterren-model biedt organisaties een handelingsperspectief: wat kan er gedaan worden om meer transparant te zijn over algoritmen? Natuurlijk moet er rekening gehouden worden met privacy, ‘gaming the system’, of het intellectueel eigendom van algoritmen. Hierdoor is het niet altijd haalbaar om alles openbaar te maken. Maar het overzicht van de mogelijkheden dat het sterren-model geeft, helpt om een afweging te maken over wat wél kan worden gepubliceerd.
 
 **Laat je horen!**
 
-Wij denken dat het toekennen van sterren een leuke manier is om overheden te stimuleren hun algoritmen waar het kan zo open mogelijk te maken. Want wie wil er nou geen 5 sterrenalgoritmen?
+Wij denken dat het toekennen van sterren een leuke manier is om overheden te stimuleren hun algoritmen waar het kan zo open mogelijk te maken. Want wie wil er nou geen 5 sterren-algoritmen?
 
-Wat denken jullie? Is het sterrenmodel een goede aanvulling op het algoritmeregister? En welke acties kunnen aan elke extra ster gekoppeld worden? Hoe zouden jullie het vormgeven? Laat het ons weten als je hier ideeën over hebt! Wij gaan vast kijken of we ook zulke mooie 5-sterrenmokken kunnen maken ;).
+Wat denken jullie? Is het sterren-model een goede aanvulling op het algoritmeregister? En welke acties kunnen aan elke extra ster gekoppeld worden? Hoe zouden jullie het vormgeven? Laat het ons weten als je hier ideeën over hebt! Wij gaan vast kijken of we ook zulke mooie 5 sterren-mokken kunnen maken ;).
