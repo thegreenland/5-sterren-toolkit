@@ -1,7 +1,7 @@
 ---
 date: 2023-05-30
 categories:
-- Update
+- Updates
 ---
 In december 2022 is het Algoritmeregister van de overheid officieel gelanceerd. Het doel van dit register is om transparantie te bieden over het gebruik van algoritmen door de overheid. Overheidsorganisaties publiceren via dit register informatie over de algoritmen die zij gebruiken, zoals het doel, het type algoritme, juridische informatie, en de mogelijke impact en risico’s.
 Toch wordt er kritiek geleverd op het algoritmeregister, omdat er vaak niet voldoende informatie in staat om daadwerkelijk te begrijpen en/of controleren hoe het algoritme werkt, en of het tot goede en eerlijke uitkomsten leidt.
