@@ -14,6 +14,7 @@ theme:
     - toc.integrate
   logo: img/5 sterrenmodel voor.svg
   favicon: img/5sterren-geel.svg
+  language: nl
 nav:
   - Home: index.md
   - Whitepaper: whitepaper.md
@@ -26,3 +27,5 @@ markdown_extensions:
   - attr_list
 plugins:
   - blog
+    post_date_format: long
+    post_url_date_format: yyyy/MM/dd
