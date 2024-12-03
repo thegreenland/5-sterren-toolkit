@@ -1,6 +1,6 @@
 ---
 categories: 
-  - Uitnodiging
+  - Evenementen
 date: 2024-09-30
 ---
 
