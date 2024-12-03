@@ -1,7 +1,7 @@
 ---
 date: 2023-10-12
 categories:
-- Uitnodiging
+- Evenementen
 ---
 
 Een tijdje terug deelden we met jullie het idee voor een 5 sterrenmodel voor open algoritmen. Vanwege jullie enthousiaste reacties zijn we verder met het model aan de slag gegaan. En nu willen we graag met jullie het model een stapje verder brengen! Want wanneer is er aan een ster voldaan? Hoe kan het model in de praktijk gebracht worden? Denk met ons mee!
