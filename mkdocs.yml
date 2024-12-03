@@ -19,10 +19,9 @@ nav:
   - Home: index.md
   - Whitepaper: whitepaper.md
   - Model: model.md
-  - Nieuws: news.md
-  - Over 5 sterren: about.md
-  - Blog:
+  - Nieuws:
     - blog/index.md
+  - Over 5 sterren: about.md
 markdown_extensions:
   - attr_list
 plugins:
@@ -33,3 +32,4 @@ plugins:
       post_dir: "blog/posts"
       post_date_format: long
       post_url_date_format: yyyy/MM/dd
+      archive: false
