@@ -26,9 +26,9 @@ markdown_extensions:
   - attr_list
 plugins:
   - blog:
-      enabled: true
       blog_dir: blog
-      blog_toc: false
+      blog_toc: true
+      categories_toc: true
       post_dir: "blog/posts"
       post_date_format: long
       post_url_date_format: yyyy/MM/dd
