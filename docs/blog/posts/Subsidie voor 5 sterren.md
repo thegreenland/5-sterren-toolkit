@@ -1,7 +1,7 @@
 ---
 date: 2024-07-26
 categories:
-- Update
+- Updates
 ---
 
 **Van black-box naar transparante algoritmes**
