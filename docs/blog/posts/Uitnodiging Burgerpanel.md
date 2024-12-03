@@ -1,7 +1,7 @@
 ---
 categories: 
   - Uitnodiging
-date: 30/09/2024
+date: 2024-09-30
 ---
 
 ## Uitnodiging: Burgerpanel over algoritmes
