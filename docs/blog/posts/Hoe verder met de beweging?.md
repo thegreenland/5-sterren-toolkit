@@ -1,7 +1,7 @@
 ---
 date: 2023-11-27
 categories:
-- Update
+- Updates
 ---
 **Het idee**
 
