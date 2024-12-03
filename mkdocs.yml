@@ -12,6 +12,7 @@ theme:
     - navigation.sections
     - navigation.sections.expand
     - toc.integrate
+    - navigation.indexes
   logo: img/5 sterrenmodel voor.svg
   favicon: img/5sterren-geel.svg
   language: nl
