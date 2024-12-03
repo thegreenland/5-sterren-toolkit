@@ -22,10 +22,11 @@ nav:
   - Nieuws: news.md
   - Over 5 sterren: about.md
   - Blog:
-    - docs/blog/index.md
+    - blog/index.md
 markdown_extensions:
   - attr_list
 plugins:
-  - blog
+  - blog:
+    blog_dir: blog
     post_date_format: long
     post_url_date_format: yyyy/MM/dd
