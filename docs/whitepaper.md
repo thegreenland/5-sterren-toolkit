@@ -7,10 +7,7 @@ Door: de 5 sterren-community
 
 Het whitepaper wordt binnenkort gepubliceerd. Wil je hierover bericht ontvangen, laat dan [hier](https://cloud.tgl.eu/apps/forms/s/eCN9zCWMPwzzWN9Fae4Csb4S) je mailadres achter.
 
-TEST[[1]](#_ftn1)_ TESTTEST.[[2]](#_ftn2)
-
-TEST. [[3]](#_ftn3) 
-
+algoritmes’. [[3]](#_ftn3) In combinatie
 
 
 
