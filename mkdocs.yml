@@ -5,7 +5,7 @@ theme:
     text: Karla
   palette: 
     primary: teal
-    accent: amber
+    accent: yellow
   features: 
     - navigation.tabs
     - navigation.tabs.sticky
