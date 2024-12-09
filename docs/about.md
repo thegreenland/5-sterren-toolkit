@@ -1,8 +1,6 @@
 # Over 5 sterren
 
-Wat is het 5 sterren-project? Wie werken hier aan mee?
-
-# Hoe het is begonnen
+## Hoe het is begonnen
 
 Geïnspireerd door het 5 sterren-model voor Open Data (van Tim Berners-Lee) presenteerde Willy Tadema in 2023 het idee voor een soortgelijk model voor algoritmes. Want hoe mooi het Algoritmeregister ook klinkt, echte transparantie gaat verder dan alleen publiceren. The Green Land schaarde zich volledig achter de ambitie om het transparantieniveau over algoritmes een stap verder te brengen en zorgde ervoor dat het model verder werd ontwikkeld; en iedereen die wilde werd van harte uitgenodigd om mee te denken en doen. Uit het enthousiasme tijdens de bijeenkomsten bleek dat de behoefte aan handvatten voor transparantie groot was. Uiteindelijk heeft Open State Foundation als betrokken en ervaren maatschappelijke organisatie op het gebied van transparantie en openheid de rol van ambassadeur of hoeder van het model op zich genomen. Dat betekent dat zij hun expertise en netwerk zullen inzetten voor de verspreiding en de activatie ervan.
 
