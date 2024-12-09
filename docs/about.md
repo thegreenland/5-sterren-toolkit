@@ -13,6 +13,8 @@ Vanuit de Maatschappelijke Coalitie Over Informatie Gesproken hebben Open State 
 Het 5 sterren-model is een lopend project dat wordt ontwikkeld en beheerd door een open gemeenschap van een zo divers mogelijke groep mensen. Wat ons betreft is iedereen belanghebbende, of men zich daar bewust van is of niet. Iedereen die interesse heeft kan dus meewerken en wordt ook van harte uitgenodigd dat te doen. Dat kunnen organisatieteams of individuele experts zijn, maar vooral iedereen die om wat voor reden dan ook geïnteresseerd, betrokken of bezorgd is (want een belang hebben we allemaal). 
 
 
+# Contact
+
 ## Contact
 
 Heb je vragen of ideeën, of wil je met het model aan de slag, neem dan gerust contact met ons op! Dit kan door een bericht achter te laten via [dit formulier](https://cloud.tgl.eu/apps/forms/s/MGQ7ACacimwkM4wjWxd9QFPe). 
