@@ -1,4 +1,4 @@
-# Over 5 sterren
+# **Over 5 sterren**
 
 ## Hoe het is begonnen
 
