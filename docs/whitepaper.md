@@ -12,7 +12,7 @@ Ook te downloaden als pdf: [Whitepaper 5 sterren-model.pdf](img/Whitepaper 5 ste
 
 ## 1.  De noodzaak van transparantie
 
-### Algoritmegebruik door overheden is niet transparant, met maatschappelijke schade als gevolg
+**Algoritmegebruik door overheden is niet transparant, met maatschappelijke schade als gevolg**
 
 De Algemene Rekenkamer concludeerde in 2021 in het rapport _Aandacht voor algoritmes_[[1]](#ftn1) dat onvoldoende wordt toegezien op de kwaliteit en risico’s van de inzet van algoritmes door overheden. In hun meest recente onderzoek stelt de Rekenkamer zelfs dat de risico’s van het gebruik van algoritmes door overheden vaak worden onderschat. Ook is bij meer dan een derde van de deelnemende organisaties onduidelijk of het ingezette systeem überhaupt naar behoren presteert.[[2]](#_ftn2)
 
@@ -74,7 +74,7 @@ Het blijkt ook dat de behoefte aan informatie erg kan verschillen per mens, situ
 
 ## 4.  Onze oplossing: het 5 sterren-model
 
-#### Een raamwerk voor het stapsgewijs realiseren van transparantie
+**Een raamwerk voor het stapsgewijs realiseren van transparantie**
 
 Ons onderzoek heeft uitgewezen dat het bieden van transparantie en openheid rond de inzet van algoritmes zeer gewenst is vanuit de samenleving. Voor de overheid is dit echter pas te realiseren wanneer dit voor organisaties concreet, behapbaar en veilig gemaakt wordt. Alleen doordat transparantie op dit moment nog te veel als einddoel wordt gezien, is het uitvoeren daarvan in de praktijk zeer lastig. Zonder een hoger doel waarvoor transparantie nodig is kunnen bepaalde vragen niet worden beantwoord, zoals _voor wie_, _over welke zaken, welke mate van_ transparantie in verschillende situaties gepast of genoeg is. Dat maakt dat er op dit moment een kloof bestaat tussen beleid en uitvoering, waardoor - ondanks de druk van bovenaf - het uitvoeren van transparantie in de praktijk erg lastig is. De oplossing ligt dus in het bieden van duidelijkheid en uitvoerbaarheid aan degenen die verantwoordelijk zijn voor het in de praktijk brengen van transparantie.
 
@@ -173,11 +173,11 @@ Op dit niveau is het algoritme volledig open. De code, data, beheersmaatregelen 
 
 Dit niveau is wellicht niet voor ieder algoritme volledig haalbaar. Daar kunnen veel verschillende redenen voor zijn. Maar zelfs als volledige openheid niet mogelijk is, dan kunnen bepaalde elementen uit dit niveau nog steeds haalbaar zijn en worden gerealiseerd. Des te meer openheid en transparantie rond een algoritme, des te groter de bijdrage aan het beter controleerbaar maken van besluitvormingsprocessen die overheidsorganisaties inzetten. Daarnaast kan het innovatie bevorderen en zelfs tips of verbeteringen van de code opleveren. Dit is ook in lijn met het open source beleid binnen de overheid.[[24]](#_ftn24) Bovendien kwam uit het burgerpanel dat het betrekken van burgers (al dan niet experts) bij de ontwikkeling van algoritmes het vertrouwen vergroot.
 
-#### 4.2      Doel van het model
+### 4.2      Doel van het model
 
 Het 5 sterren-model is bedoeld als richtinggevend hulpmiddel voor alle organisaties, in het bijzonder publieke organisaties, die met algoritmes werken en die dus stappen moeten zetten met het bieden van openheid daarover. Het model helpt om ambities en doelen op het gebied van transparantie te articuleren, het gesprek erover binnen de eigen organisatie te voeren en bewustzijn hierover te creëren. Daarnaast biedt het model handvatten om deze ambities uit te voeren. Het 5 sterren-model is dus een instrument dat gericht is op 1) het helpen van bestuurders en leidinggevenden bij het articuleren van hun ambities over transparante algoritmes, en 2) het bieden van duidelijkheid over hoe transparantie in de praktijk verwezenlijkt kan worden. Met natuurlijk als uiteindelijk doel dat de samenleving voldoende inzicht heeft om de algoritmes en daarop gebaseerde keuzes te begrijpen, te vertrouwen, of te betwisten wanneer nodig. Want transparantie is geen doel op zich!
 
-# 5.  Tips om met het model aan de slag te gaan
+## 5.  Tips om met het model aan de slag te gaan
 
 Wil je aan de slag met het 5-sterrenmodel, maar weet je niet waar je moet beginnen? De volgende stappen kunnen helpen om met het model aan de slag te gaan: 
 1. Voer gesprekken met elkaar over wat transparantie binnen jouw organisatie betekent en wat er mogelijk is, met aandacht voor de specifieke praktische context en de kernwaarden van je organisatie;
