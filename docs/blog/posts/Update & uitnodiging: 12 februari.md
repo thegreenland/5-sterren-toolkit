@@ -1,6 +1,7 @@
 ---
 categories: 
   - Evenementen
+date: 2025-01-27
 ---
 
 **Whitepaper**
