@@ -1,4 +1,5 @@
 # THE 5-STAR MODEL FOR TRANSPARENT ALGORITHMS
+
 ```
 By: the 5 star community
 Version: 1.0 (dated 06 December 2024)
@@ -12,7 +13,7 @@ We therefore introduce the 5-star model: a framework for step-by-step realisatio
 
 **The use of algorithms by governments is not transparent, resulting in societal harm**
 
-The Netherlands Court of Audit concluded in its 2021 report Understanding Algorithms1 that the quality and risks of the use of algorithms by governments are insufficiently monitored. In their most recent study, the Court of Audit even states that the risks associated with the use of algorithms by governments are often underestimated. For more than a third of the participating organisations, it is unclear whether the deployed system is performing properly at all.2
+The Netherlands Court of Audit concluded in its 2021 report Understanding Algorithms1 that the quality and risks of the use of algorithms by governments are insufficiently monitored. In their most recent study, the Court of Audit even states that the risks associated with the use of algorithms by governments are often underestimated. For more than a third of the participating organisations, it is unclear whether the deployed system is performing properly at all.[^2]
 
 This leads to concerns in society. According to the 2023 Algorithm Trust Monitor, trust in algorithms in the government has declined in recent years, with half of the population indicating that they think ‘executive organisations are not honest and transparent about the use of algorithms’.3 Combined with new legislation from the European Union, such as the AI Act, this puts great pressure on the government to provide more transparency about its use of algorithms.
 
@@ -96,9 +97,11 @@ It is important to view the 5-star model not as a checklist or an exhaustive ove
 ‘Publish (online) what the algorithm is supposed to do’
 
 The first star is achieved when information about the algorithm and its application is publicly available, for instance, in the Algorithm Register. This means a description of the general characteristics of the algorithm is provided, which at minimum includes:
+
 - A description of the purpose/function of the algorithm;
 - A description of the role of the algorithm in relation to the process in which it is used;
 - A (reasoned and explained) classification of the algorithm's impact.
+
 With this information, you are transparent about the fact that an algorithm is being used, why and for what purpose it is implemented, and how impactful the algorithm is.
 
 At this stage, it is also important to consider whether, and if so, how and when someone should be informed about the use of this algorithm. For example, in the case of a chatbot, it should be immediately clear to users that they are interacting with a bot. Additionally, references to extra information can be provided in the Algorithm Register. If the algorithm is used in a decision-making process, a link to this publication could, for instance, be included with the final decision.
@@ -137,6 +140,7 @@ Sometimes, due to privacy or security concerns, not all aspects of an (internal)
 ‘Make it possible to test the algorithm’.
 
 At this level, stakeholders can start testing the algorithm themselves. People can then see for themselves what output is delivered with what input. This can be achieved, for example, with:
+
 - An API with which results can be requested;
 - A ‘mock-up’ system;
 - Test data, possibly ‘synthetic’ (not the actual sensitive data but a comparable neutral set).20
@@ -168,10 +172,14 @@ Want to get started with the 5-star model but don’t know where to begin? The f
 1. Have discussions about what transparency means within your organisation and what is possible, taking into account the specific practical context and core values of your organisation.
 2. Make agreements (at the governance level) about the ambition level you aim to achieve for the organisation. For example: "We want to achieve at least 3 stars for all algorithms!" This provides a common goal and can create urgency to allocate time and resources.
 3. Then, you can start mapping out:
-	- The algorithms your organisation uses, develops, or purchases;
-	- Who to approach for information about an algorithm;
-	- What agreements are in place with suppliers and developers regarding the purpose, functionality, and explainability of algorithms;
-	- The possible assessments that algorithms have undergone or will undergo.
+	
+ 	- The algorithms your organisation uses, develops, or purchases;
+	
+ 	- Who to approach for information about an algorithm;
+	
+ 	- What agreements are in place with suppliers and developers regarding the purpose, functionality, and explainability of algorithms;
+	
+ 	- The possible assessments that algorithms have undergone or will undergo.
 
 With this information in mind, you can work step by step towards publishing algorithms. Don’t forget: perfectionism is the enemy of progress. So, just get started!
 
@@ -208,7 +216,7 @@ Contact us through our website [5sterrenalgoritmes.nl](5sterrenalgoritmes.nl) an
 ## References
 1 See: https://english.rekenkamer.nl/publications/reports/2021/01/26/understanding-algorithms
 
-2 See: https://english.rekenkamer.nl/publications/reports/2024/10/16/focus-on-ai-in-central-government
+[^2]: See: https://english.rekenkamer.nl/publications/reports/2024/10/16/focus-on-ai-in-central-government
 
 3 See: https://kpmg.com/nl/nl/home/topics/digital-transformation/artificial-intelligence/algoritme-vertrouwensmonitor.html (in Dutch)
 
