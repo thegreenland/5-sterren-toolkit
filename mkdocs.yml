@@ -27,6 +27,7 @@ nav:
   - Over 5 sterren: about.md
 markdown_extensions:
   - attr_list
+  - footnotes
 plugins:
   - blog:
       blog_dir: blog
