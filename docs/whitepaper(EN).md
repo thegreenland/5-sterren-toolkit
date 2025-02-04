@@ -53,7 +53,7 @@ Driven by the prevailing mantra of digitalisation, data-driven work, and the hyp
 
 Partly due to this negative publicity, there is a strong focus on risk avoidance from the perspective of the government itself, rather than thinking from a human rights perspective and the interests of society. This creates a culture that is not conducive to upholding public values such as transparency and openness. Note: the cause of this culture lies not only with government organizations and their employees. The political atmosphere and the media also play a significant role in this.
 
-At the same time, the national government and regulatory bodies (such as the Netherlands Court of Audit,[^13] TNO,[^14] the Dutch Data Protection Authority,[^15] the Council of State,[^]16 and the Netherlands Institute for Human Rights[^17]) are increasingly emphasising and pushing for the mandatory publication of algorithms, the conducting of impact assessments, and putting the citizen at the center. Transparency plays a crucial role here, as how can one exercise oversight if there is no transparency?
+At the same time, the national government and regulatory bodies (such as the Netherlands Court of Audit,[^13] TNO,[^14] the Dutch Data Protection Authority,[^15] the Council of State,[^]16 and the Netherlands Institute for Human Rights[^17]) are increasingly emphasising and pushing for the mandatory publication of algorithms, the conducting of impact assessments, and putting the citizen at the center.[^18] Transparency plays a crucial role here, as how can one exercise oversight if there is no transparency?
 
 This dynamic creates a culture in which the risk of 'transparency washing' lurks: giving the impression of being transparent while consciously choosing to share information that is 'safe,' rather than what is most meaningful or insightful. For example, by only publishing the 'simplest' or least impactful algorithms, or by intentionally keeping descriptions (such as in the Algorithm Register) superficial. This does not contribute to the ultimate goals of transparency, such as being able to account for, explain, or discuss decisions based on algorithms. Publishing 'something' in the Algorithm Register is not enough if it does not lead to meaningful insights for society.
 
@@ -214,41 +214,41 @@ As a committed and experienced civil organisation in the field of transparency a
 Contact us through our website [5sterrenalgoritmes.nl](5sterrenalgoritmes.nl) and share your questions and ideas!
 
 ## References
-[^1]: See: https://english.rekenkamer.nl/publications/reports/2021/01/26/understanding-algorithms
+[^1]: See: [https://english.rekenkamer.nl/publications/reports/2021/01/26/understanding-algorithms](https://english.rekenkamer.nl/publications/reports/2021/01/26/understanding-algorithms)
 
-[^2]: See: https://english.rekenkamer.nl/publications/reports/2024/10/16/focus-on-ai-in-central-government
+[^2]: See: [https://english.rekenkamer.nl/publications/reports/2024/10/16/focus-on-ai-in-central-government](https://english.rekenkamer.nl/publications/reports/2024/10/16/focus-on-ai-in-central-government)
 
-[^3]: See: https://kpmg.com/nl/nl/home/topics/digital-transformation/artificial-intelligence/algoritme-vertrouwensmonitor.html (in Dutch)
+[^3]: See: [https://kpmg.com/nl/nl/home/topics/digital-transformation/artificial-intelligence/algoritme-vertrouwensmonitor.html](https://kpmg.com/nl/nl/home/topics/digital-transformation/artificial-intelligence/algoritme-vertrouwensmonitor.html) (in Dutch)
 
 [^4]: For example, the [European AI Act (Art. 13)](https://artificialintelligenceact.eu/article/13/) states that high-risk systems should be ‘designed and developed in such a way that their operation is sufficiently transparent to enable users to interpret, and use appropriately, their results’. Transparency also plays a prominent role in the [Implementation Framework for the Responsible Use of Algorithms](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) (Ministry of the Interior and Kingdom Relations).
 
 [^5]: Walmsley, J. Artificial intelligence and the value of transparency. AI & Soc 36, 585–595 (2021).
 
-[^6]: See: https://algoritmes.overheid.nl/en
+[^6]: See: [https://algoritmes.overheid.nl/en](https://algoritmes.overheid.nl/en)
 
 [^7]: As of 29 November 2024, there are 609 published algorithms, 430 of which come from municipalities, 21 from ministries, 36 from independent administrative bodies (usually executive agencies), and 17 from provinces.
 
 [^8]: Morley, J., Kinsey, L., Elhalal, A., Garcia, F., Ziosi, M., & Floridi, L. (2023). Operationalising AI ethics: barriers, enablers and next steps. AI & SOCIETY, 1-13.
 
-[^9]: Article 13.3 GIBIT 2023 procurement terms and conditions. See: https://vng.nl/sites/default/files/2024-10/gibit-articles-2023-en.pdf. See also the notes to Art. 13 of these procurement terms, p. 27, available here: https://vng.nl/sites/default/files/2023-12/vng_gibit_2023_toelichting.pdf (in Dutch).
+[^9]: Article 13.3 GIBIT 2023 procurement terms and conditions. See: [https://vng.nl/sites/default/files/2024-10/gibit-articles-2023-en.pdf](https://vng.nl/sites/default/files/2024-10/gibit-articles-2023-en.pdf). See also the notes to Art. 13 of these procurement terms, p. 27, available here: [https://vng.nl/sites/default/files/2023-12/vng_gibit_2023_toelichting.pdf](https://vng.nl/sites/default/files/2023-12/vng_gibit_2023_toelichting.pdf) (in Dutch).
 
-[^10]: Jennifer Cobbe, Michael Veale, and Jatinder Singh. 2023. Understanding accountability in algorithmic supply chains. In 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’23), June 12–15, 2023, Chicago, IL, USA. ACM, New York, NY, USA, 12 pages. https://doi.org/10. 1145/3593013.3594073
+[^10]: Jennifer Cobbe, Michael Veale, and Jatinder Singh. 2023. Understanding accountability in algorithmic supply chains. In 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’23), June 12–15, 2023, Chicago, IL, USA. ACM, New York, NY, USA, 12 pages. [https://doi.org/10. 1145/3593013.3594073](https://doi.org/10. 1145/3593013.3594073)
 
-[^11]: See: https://www.mensenrechten.nl/actueel/toegelicht/toegelicht/2022/aanhoudend-foutief-gebruik-algoritmes-door-overheden-vraagt-om-bindende-discriminatietoets (in Dutch)
+[^11]: See: [https://www.mensenrechten.nl/actueel/toegelicht/toegelicht/2022/aanhoudend-foutief-gebruik-algoritmes-door-overheden-vraagt-om-bindende-discriminatietoets](https://www.mensenrechten.nl/actueel/toegelicht/toegelicht/2022/aanhoudend-foutief-gebruik-algoritmes-door-overheden-vraagt-om-bindende-discriminatietoets) (in Dutch)
 
-[^12]: See: https://www.rijksoverheid.nl/documenten/kamerstukken/2023/07/06/antwoord-op-schriftelijke-vragen-bevindingen-onderzoek-duo-naar-fraude-met-studiefinanciering (in Dutch)
+[^12]: See: [https://www.rijksoverheid.nl/documenten/kamerstukken/2023/07/06/antwoord-op-schriftelijke-vragen-bevindingen-onderzoek-duo-naar-fraude-met-studiefinanciering](https://www.rijksoverheid.nl/documenten/kamerstukken/2023/07/06/antwoord-op-schriftelijke-vragen-bevindingen-onderzoek-duo-naar-fraude-met-studiefinanciering) (in Dutch)
 
-[^13]: See: https://english.rekenkamer.nl/publications/reports/2024/10/16/focus-on-ai-in-central-government
+[^13]: See: [https://english.rekenkamer.nl/publications/reports/2024/10/16/focus-on-ai-in-central-government](https://english.rekenkamer.nl/publications/reports/2024/10/16/focus-on-ai-in-central-government)
 
-[^14]: See: https://publications.tno.nl/publication/34642601/SASNc3ZW/TNO-2024-R11005.pdf (in Dutch)
+[^14]: See: [https://publications.tno.nl/publication/34642601/SASNc3ZW/TNO-2024-R11005.pdf](https://publications.tno.nl/publication/34642601/SASNc3ZW/TNO-2024-R11005.pdf) (in Dutch)
 
-[^15]: See: https://www.autoriteitpersoonsgegevens.nl/en/themes/algorithms-ai
+[^15]: See: [https://www.autoriteitpersoonsgegevens.nl/en/themes/algorithms-ai](https://www.autoriteitpersoonsgegevens.nl/en/themes/algorithms-ai)
 
-[^16]: See: https://www.raadvanstate.nl/publish/library/13/digitalisering_wetgeving_en_bestuursrechtspraak.pdf (in Dutch)
+[^16]: See: [https://www.raadvanstate.nl/publish/library/13/digitalisering_wetgeving_en_bestuursrechtspraak.pdf](https://www.raadvanstate.nl/publish/library/13/digitalisering_wetgeving_en_bestuursrechtspraak.pdf) (in Dutch)
 
-[^17]: See: https://publicaties.mensenrechten.nl/file/1405c7ee-821e-29f1-6d06-58971cf25a3d.pdf (in Dutch)
+[^17]: See: [https://publicaties.mensenrechten.nl/file/1405c7ee-821e-29f1-6d06-58971cf25a3d.pdf](https://publicaties.mensenrechten.nl/file/1405c7ee-821e-29f1-6d06-58971cf25a3d.pdf) (in Dutch)
 
-[^18]: See: https://www.rijksoverheid.nl/documenten/rapporten/2022/12/05/inrichting-algoritmetoezicht and https://magazines.rdi.nl/staatvandeether/2021/01/toezicht-op-ai-inspecties-delen-kennis (both in Dutch)
+[^18]: See: [https://www.rijksoverheid.nl/documenten/rapporten/2022/12/05/inrichting-algoritmetoezicht](https://www.rijksoverheid.nl/documenten/rapporten/2022/12/05/inrichting-algoritmetoezicht) and [https://magazines.rdi.nl/staatvandeether/2021/01/toezicht-op-ai-inspecties-delen-kennis](https://magazines.rdi.nl/staatvandeether/2021/01/toezicht-op-ai-inspecties-delen-kennis) (both in Dutch)
 
 [^19]: Such as the [Z-Inspection method](https://z-inspection.org), which is already being [experimented](https://arxiv.org/abs/2404.14366) with in the government.
 
@@ -260,4 +260,4 @@ Contact us through our website [5sterrenalgoritmes.nl](5sterrenalgoritmes.nl) an
 
 [^23]: Conceived by Margaret Mitchell, formerly an ethicist at Google: [https://arxiv.org/abs/1810.03993](https://arxiv.org/abs/1810.03993)
 
-[^24]: See: https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/open-source/beleid/ (in Dutch)
+[^24]: See: [https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/open-source/beleid/](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/open-source/beleid/) (in Dutch)
