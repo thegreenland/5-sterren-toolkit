@@ -20,6 +20,7 @@ theme:
 nav:
   - Home: index.md
   - Whitepaper: whitepaper.md
+  - Whitepaper (EN): whitepaper(EN).md
   - Model: model.md
   - Nieuws:
     - blog/index.md
