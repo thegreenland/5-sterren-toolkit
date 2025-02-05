@@ -236,7 +236,6 @@ Neem contact op via onze website **[5sterrenalgoritmes.nl](https://5sterrenalgor
 
   
 ## Referenties
----
 
 [^1]: Zie: [https://www.rekenkamer.nl/publicaties/rapporten/2021/01/26/aandacht-voor-algoritmes](https://www.rekenkamer.nl/publicaties/rapporten/2021/01/26/aandacht-voor-algoritmes)
 
