@@ -1,9 +1,10 @@
-# THE 5-STAR MODEL FOR TRANSPARENT ALGORITHMS
+# Whitepaper: THE 5-STAR MODEL FOR TRANSPARENT ALGORITHMS
 
 ```
 By: the 5 star community
 Version: 1.0 (dated 06 December 2024)
 ```
+Or download the PDF: [Whitepaper 5-star model.pdf](img/Whitepaper 5-star model.pdf)
 
 ## **From black boxes to transparent algorithms**
 **Summary:** Transparency is a core requirement for responsible deployment of algorithms by governments, but it is not yet sufficiently realised. There seems to be a lack of clarity, a hesitation to act, insufficient knowledge and risk-averse behaviour among government organisations when it comes to transparency about algorithms. Our research has revealed that the definition of transparency needs to be made concrete, manageable and secure in practice.
