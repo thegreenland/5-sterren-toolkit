@@ -82,7 +82,7 @@ Uit gesprekken met experts en ervaringsdeskundigen blijkt dat een gradatie of ge
 
 Het 5 sterren-model is een hulpmiddel waarbij je per ster de transparantie over een algoritme vergroot. Met elke ster bied je de burger steeds meer de mogelijkheid om zelf te zien en beoordelen of een algoritme op een verantwoorde manier wordt ingezet. Dit begint bij het publiceren van informatie om te laten weten dát en waarvoor er een algoritme wordt gebruikt (**Gepubliceerd**). Vervolgens wordt het algoritme verder beschreven (**Uitgelegd**) en aangetoond dat het grondig is getest (**Gecontroleerd**). Om mensen echt zelf een beeld te kunnen laten vormen van de werking van het algoritme kunnen mensen experimenteren met in- en output (**Testbaar**) of de volledige broncode doorgronden (**Open**). Een uitgebreidere toelichting op deze stappen wordt hieronder gegeven.
 
-![Het 5 sterren-model is gevisualiseerd als 5 oplopende tredes. De tredes zijn: gepubliceerd, uitgelegd, gecontroleerd, testbaar en open.](./img/5sterren-model.svg "Het 5 sterren-model")_****_Afbeelding 1:_** _Het 5 sterren-model bestaat uit de sterren Gepubliceerd, Uitgelegd, Gecontroleerd, Testbaar en Open._
+![Het 5 sterren-model is gevisualiseerd als 5 oplopende tredes. De tredes zijn: gepubliceerd, uitgelegd, gecontroleerd, testbaar en open.](./img/5sterren-model.svg "Het 5 sterren-model")_**_Afbeelding 1:_** _Het 5 sterren-model bestaat uit de sterren Gepubliceerd, Uitgelegd, Gecontroleerd, Testbaar en Open._
 
 ### 4.1      Toelichting op de 5 sterren
 
