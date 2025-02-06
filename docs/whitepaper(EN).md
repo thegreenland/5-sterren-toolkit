@@ -115,7 +115,7 @@ At this level, an explanation is provided on how the algorithm works and how it 
 
 The first point can be explained in general, but when applicable, it is also important to be able to explain it at an individual level. As was shown in the citizen panel, people want to understand the information (input) that led to a decision (output). For example, at the level of individual citizens, a file could be kept of decisions where an algorithm was applied, including an overview of which data was used, what output it led to, and why that output justifies the decision. This gives citizens the opportunity to understand the process and verify if the data is correct.
 
-**3 ★ CHECKED**
+**3 ★ VERIFIED**
 
 "Share results that prove the algorithm does what it is supposed to do"
 
