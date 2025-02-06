@@ -1,0 +1,1074 @@
+
+<!doctype html>
+<html lang="nl" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="..">
+      
+      
+        <link rel="next" href="../whitepaper%28EN%29/">
+      
+      
+      <link rel="icon" href="../img/5sterren-geel.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.2">
+    
+    
+      
+        <title>Whitepaper - 5 sterren-model voor transparante algoritmes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.d7758b05.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karla:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Karla";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#whitepaper" class="md-skip">
+          Ga naar inhoud
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="5 sterren-model voor transparante algoritmes" class="md-header__button md-logo" aria-label="5 sterren-model voor transparante algoritmes" data-md-component="logo">
+      
+  <img src="../img/5 sterren.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            5 sterren-model voor transparante algoritmes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Whitepaper
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+    
+  
+  Whitepaper
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../whitepaper%28EN%29/" class="md-tabs__link">
+        
+  
+    
+  
+  Whitepaper (EN)
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../model/" class="md-tabs__link">
+        
+  
+    
+  
+  Model
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../blog/" class="md-tabs__link">
+          
+  
+    
+  
+  Nieuws
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../about/" class="md-tabs__link">
+        
+  
+    
+  
+  Over 5 sterren
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigatie" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="5 sterren-model voor transparante algoritmes" class="md-nav__button md-logo" aria-label="5 sterren-model voor transparante algoritmes" data-md-component="logo">
+      
+  <img src="../img/5 sterren.svg" alt="logo">
+
+    </a>
+    5 sterren-model voor transparante algoritmes
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Whitepaper
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Whitepaper
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#van-black-boxes-naar-transparante-algoritmes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Van black boxes naar transparante algoritmes
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-de-noodzaak-van-transparantie" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. De noodzaak van transparantie
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-de-uitdagingen" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. De uitdagingen
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. De uitdagingen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-onduidelijkheid-en-handelingsverlegenheid-bij-het-naar-de-praktijk-vertalen-van-transparantie" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.1 Onduidelijkheid en handelingsverlegenheid bij het naar de praktijk vertalen van transparantie
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-onvoldoende-kennis-en-controle-over-algoritmes-binnen-de-organisatie" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.2 Onvoldoende kennis en controle over algoritmes binnen de organisatie
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-risicomijdend-gedrag-als-het-om-transparantie-gaat" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.3 Risicomijdend gedrag als het om transparantie gaat
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-de-informatiebehoefte-vanuit-de-samenleving" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. De informatiebehoefte vanuit de samenleving
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-onze-oplossing-het-5-sterren-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Onze oplossing: het 5 sterren-model
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4. Onze oplossing: het 5 sterren-model">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#41-toelichting-op-de-5-sterren" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.1 Toelichting op de 5 sterren
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#42-doel-van-het-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2 Doel van het model
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-tips-om-met-het-model-aan-de-slag-te-gaan" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Tips om met het model aan de slag te gaan
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-conclusie-en-call-to-arms" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. Conclusie en call to arms!
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referenties" class="md-nav__link">
+    <span class="md-ellipsis">
+      Referenties
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../whitepaper%28EN%29/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Whitepaper (EN)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Model
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../blog/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Nieuws
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Nieuws
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Categorieën
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Categorieën
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../blog/category/evenementen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Evenementen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../blog/category/updates/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Updates
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Over 5 sterren
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="whitepaper">Whitepaper</h1>
+<pre><code>Door: de 5 sterren-community
+Versie: 1.0 (d.d. 06 december 2024)
+</code></pre>
+<p>Ook te downloaden als pdf: <a href="../img/Whitepaper%205%20sterren-model.pdf">Whitepaper 5 sterren-model.pdf</a></p>
+<h2 id="van-black-boxes-naar-transparante-algoritmes">Van <em>black boxes</em> naar transparante algoritmes</h2>
+<p><strong>Samenvatting:</strong> Transparantie is een kernvoorwaarde voor verantwoorde inzet van algoritmes door overheden, maar dit wordt nog niet voldoende gerealiseerd. Er lijkt sprake van onduidelijkheid, handelingsverlegenheid, onvoldoende kennis en risicomijdend gedrag bij overheidsorganisaties als het om transparantie over algoritmes gaat. Ons onderzoek heeft uitgewezen dat transparantie in de praktijk concreet, behapbaar en veilig gemaakt moet worden. Daarom introduceren wij het 5 sterren-model: een raamwerk voor het stapsgewijs realiseren van transparantie. In dit whitepaper vertellen we alles over de noodzaak, de uitdagingen en de inhoud en toepassing van het model.</p>
+<h2 id="1-de-noodzaak-van-transparantie">1.  De noodzaak van transparantie</h2>
+<p><strong>Algoritmegebruik door overheden is niet transparant, met maatschappelijke schade als gevolg</strong></p>
+<p>De Algemene Rekenkamer concludeerde in 2021 in het rapport <em>Aandacht voor algoritmes</em><sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> dat onvoldoende wordt toegezien op de kwaliteit en risico’s van de inzet van algoritmes door overheden. In hun meest recente onderzoek stelt de Rekenkamer zelfs dat de risico’s van het gebruik van algoritmes door overheden vaak worden onderschat. Ook is bij meer dan een derde van de deelnemende organisaties onduidelijk of het ingezette systeem überhaupt naar behoren presteert.<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup></p>
+<p>Dit leidt tot zorgen in de samenleving. Volgens de Algoritme Vertrouwensmonitor van 2023 is de afgelopen jaren het vertrouwen in algoritmes bij de overheid gedaald en geeft de helft van de bevolking aan te denken ‘dat uitvoeringsorganisaties niet eerlijk en transparant zijn over het gebruik van algoritmes’.<sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup> In combinatie met nieuwe wetgeving vanuit de Europese Unie, zoals de AI-verordening, legt dit grote druk op de overheid om meer transparantie te bieden over het gebruik van algoritmes.</p>
+<p>Transparantie – in de context van algoritmes – is als principe of vereiste sterk verankerd in wetgeving, beleid, richtlijnen en kaders.<sup id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup> Deze documenten lijken te suggereren dat transparantie een soort moreel of maatschappelijk eindpunt is. Maar het is cruciaal om transparantie <em>niet als einddoel</em> te zien, maar als een middel om hogere doelen te bereiken. Zo moet je als overheid altijd uitleg kunnen geven over hoe besluiten of beleid tot stand zijn gekomen. Als je daarbij een algoritme inzet, bijvoorbeeld om het proces (deels) te automatiseren, berekeningen te maken, of voorspellingen te doen, moet je dat algoritmische proces dus ook goed in kaart brengen en uit kunnen leggen. Alleen dán kun je als overheid verantwoording afleggen over de manier waarop taken worden uitgevoerd en wordt publiek toezicht op de kwaliteit en rechtvaardigheid mogelijk.<sup id="fnref:5"><a class="footnote-ref" href="#fn:5">5</a></sup> Daarmee is transparantie een essentiële voorwaarde voor een goedwerkende democratie.</p>
+<p>Eind 2022 is een mooie stap gezet met de lancering van het landelijke Algoritmeregister, waarin overheden over hun algoritmes kunnen publiceren.<sup id="fnref:6"><a class="footnote-ref" href="#fn:6">6</a></sup> Mede dankzij de inspanningen rond het Algoritmeregister zijn overheidsorganisaties hierdoor al flink aan de slag gegaan. Toch is de informatie die in het register wordt opgenomen vaak nog van beperkte waarde en onvoldoende om verschillende doelgroepen daadwerkelijk inzicht te geven in de impact en werking van algoritmes. Zo zijn resultaten van impacttoetsen zelden in te zien en er wordt nauwelijks verwezen naar beschikbare broncode. Daardoor blijft het onduidelijk of algoritmes naar behoren werken en op een rechtvaardige manier in processen wordt ingezet. Bovendien staat het overgrote deel van de algoritmes met directe impact op de samenleving nog niet in het register.<sup id="fnref:7"><a class="footnote-ref" href="#fn:7">7</a></sup> Daarom is extra actie nodig om de transparantie over algoritmes in Nederland naar een hoger niveau te tillen.</p>
+<h2 id="2-de-uitdagingen">2.  De uitdagingen</h2>
+<p>We zijn in gesprek gegaan met professionals binnen en buiten de overheid om te onderzoeken waar binnen overheidsorganisaties de uitdagingen liggen op het gebied van algoritmes en de transparantie daarover. Daaruit blijkt dat de uitdagingen in grofweg drie categorieën zijn te verdelen:</p>
+<p>1.     Onduidelijkheid en handelingsverlegenheid bij het naar de praktijk vertalen van transparantie;</p>
+<p>2.     Onvoldoende kennis en controle over algoritmes binnen de organisatie;</p>
+<p>3.     Risicomijdend gedrag als het om transparantie gaat.</p>
+<p>Hieronder lichten we deze uitdagingen verder toe.</p>
+<h3 id="21-onduidelijkheid-en-handelingsverlegenheid-bij-het-naar-de-praktijk-vertalen-van-transparantie">2.1      Onduidelijkheid en handelingsverlegenheid bij het naar de praktijk vertalen van transparantie</h3>
+<p>Er wordt in beleid en wetgeving veel aandacht besteed aan transparantie en openheid als principe bij de inzet van algoritmes. De uitdaging is om deze vaak generieke voorschriften te vertalen naar concrete, uitvoerbare maatregelen. De uitwerking van transparantie op beleidsniveau is vooral theoretisch en abstract, maar daardoor biedt het geen heldere blik op wat transparantie betekent binnen de praktische context van algoritmes. Waarover moet precies transparantie of openheid geboden worden? Op welke doelgroep moet dit gericht worden en met welk eindresultaat? Hierdoor ontstaat er een kloof tussen beleid en uitvoering. Dit is een bekende, lastige uitdaging voor overheden, die zich overigens niet beperkt tot transparantie in de context van algoritmes.<sup id="fnref:8"><a class="footnote-ref" href="#fn:8">8</a></sup> Toch is het juist in de context van algoritmes schrijnend, omdat transparantie een kernvoorwaarde is om schade aan burgers en de samenleving te voorkomen.</p>
+<p>Er bestaat daarnaast ook veel onduidelijkheid over de belegging van rollen en verantwoordelijkheden binnen de organisatie. Mensen willen graag het goede doen. Dat geldt zeker ook voor professionals van de overheid die werken aan het verbeteren van de (informatie)positie van burgers ten opzichte van de overheid. Maar er is op dit moment nog onvoldoende duidelijkheid over wat de regels, richtlijnen en verplichtingen voor organisaties zijn, welke visie op transparantie gevolgd dient te worden, wie binnen die organisaties verantwoordelijk is voor welke taken, of welke werkwijze er dient te worden gehanteerd. Het ontbreekt ook aan regie en eigenaarschap op dit thema, waardoor organisaties afwachtend naar elkaar kijken. In de praktijk leidt dit tot handelingsverlegenheid bij het realiseren van transparantie.</p>
+<h3 id="22-onvoldoende-kennis-en-controle-over-algoritmes-binnen-de-organisatie">2.2      Onvoldoende kennis en controle over algoritmes binnen de organisatie</h3>
+<p>Op dit moment is de informatiepositie van publieke organisaties zélf ten opzichte van hun eigen algoritmes zorgwekkend slecht. Dit komt door een gebrek aan kennis en inzicht in algoritmes. Dat is problematisch, want zonder dat inzicht kan je als overheid ook de informatiepositie van burgers daarover niet verbeteren. Met name kleinere overheidsorganisaties ontbreekt het aan middelen, mensen, tijd en geld om te investeren in bijvoorbeeld AI-geletterdheid en het inrichten van processen om algoritmes publiceren.</p>
+<p>Daar komt bij dat er binnen de overheid veel sprake is van ‘silo-vorming’. Dat wil zeggen: verschillende teams, afdelingen, domeinen en organisatielagen functioneren als eilandjes en er is een enorm gebrek aan horizontale en verticale verbinding. Innovatie met algoritmes en/of AI is complex en wordt vaak niet op een integrale manier aangepakt, waardoor het voor organisaties heel lastig is om grip te houden op wat er intern gebeurt. Bestuurders zijn vaak geen inhoudelijke experts, maar moeten zich wel buigen over complexe, impactvolle beslissingen die inhoudelijke kennis vereisen, terwijl de inhoudelijke experts doorgaans niet aan de bestuurstafel zitten om hun input te kunnen geven. Dat maakt de drempel voor bestuurders om transparantie over algoritmes in de praktijk te realiseren ontzettend hoog.</p>
+<p>Bovendien zijn overheden vaak afhankelijk van de expertise van derde partijen voor het inkopen en ontwikkelen van technologie. Die leveranciers zijn (uit bijvoorbeeld zakelijke overwegingen) niet altijd bereid om transparantie en openheid te bieden over hun systemen aan burgers. Hoewel aandacht voor transparantie over ingekochte systemen meer lijkt te gaan leven bij zowel ontwikkelaars als overheden, zijn er vaak nog geen harde afspraken over gemaakt. Zo wordt in de inkoopvoorwaarden van de VNG (GIBIT) alleen genoemd dat leveranciers moeten kunnen uitleggen hoe het algoritme tot een bepaalde beslissing is gekomen, maar wordt het algoritme zelf gewoon als bedrijfsgeheim van de leverancier gezien.<sup id="fnref:9"><a class="footnote-ref" href="#fn:9">9</a></sup> Dit geeft aan dat er sprake is van afhankelijkheid van leveranciers en dat het ontbreekt aan afspraken om transparantie vanaf het prille begin in te programmeren bij ingekochte systemen. Toch is het voor verantwoord algoritmebeleid en voor het waarborgen van onze  publieke waarden bij het inzetten van algoritmes essentieel dat er transparantie is over de gehele ‘supply chain’ en levenscyclus van een systeem.<sup id="fnref:10"><a class="footnote-ref" href="#fn:10">10</a></sup></p>
+<h3 id="23-risicomijdend-gedrag-als-het-om-transparantie-gaat">2.3      Risicomijdend gedrag als het om transparantie gaat</h3>
+<p>Vanuit het heersende mantra van de digitalisering, het datagedreven werken en de hype rond algoritmes, is er binnen de overheid sprake van een zogeheten <em>technology push</em>: het idee dat er geïnnoveerd moet worden om niet de boot te missen. Dat technologische kansen moeten worden aangegrepen om de kosten te drukken en efficiëntie te vergroten. Daarmee wordt vaak voorbijgegaan aan de vraag of technologie überhaupt de beste oplossing is voor het probleem en of de gevolgen voor de samenleving de keuze voor de technologie kunnen rechtvaardigen. Het gevolg hiervan is dat er bij de aanpak van uitdagingen een overmatige focus ligt op data, de techniek of <em>kwantificeerbare</em> resultaten. Terwijl goede oplossingen voor maatschappelijke uitdagingen vaak liggen in een meer participatieve, sociale of menselijke aanpak die zich niet eenvoudig laat kwantificeren. De dramatische gevolgen hiervan zijn zichtbaar geworden in bijvoorbeeld het toeslagenschandaal bij de Belastingdienst en andere voorbeelden van overheidsorganisaties die de afgelopen tijd negatief in het nieuws zijn gekomen vanwege de toepassing van schadelijke risico- of fraude-voorspellende systemen.<sup id="fnref:11"><a class="footnote-ref" href="#fn:11">11</a></sup>,<sup id="fnref:12"><a class="footnote-ref" href="#fn:12">12</a></sup></p>
+<p>Mede door deze negatieve publiciteit wordt sterk gestuurd op <em>risicomijding</em> vanuit het perspectief van de overheid zelf, in plaats van te denken vanuit mensenrechten en het belang van de samenleving. Dit creëert een cultuur die niet bevorderlijk is voor het naleven van publieke waarden, zoals transparantie en openheid. Let op: de oorzaak van deze cultuur ligt dus <em>niet alleen</em> bij overheidsorganisaties en hun medewerkers. Ook de politiek en media hebben hier een groot aandeel in.</p>
+<p>Tegelijkertijd wordt vanuit de Rijksoverheid en toezichthouders (zoals de Algemene Rekenkamer,<sup id="fnref:13"><a class="footnote-ref" href="#fn:13">13</a></sup> TNO,<sup id="fnref:14"><a class="footnote-ref" href="#fn:14">14</a></sup> de Autoriteit Persoonsgegevens,<sup id="fnref:15"><a class="footnote-ref" href="#fn:15">15</a></sup> de Raad van State,<sup id="fnref:16"><a class="footnote-ref" href="#fn:16">16</a></sup> en het College voor de Rechten van de Mens<sup id="fnref:17"><a class="footnote-ref" href="#fn:17">17</a></sup>) steeds meer gehamerd en gestuurd op verplicht publiceren van algoritmes, uitvoeren van impact assessments en het centraal stellen van de burger.<sup id="fnref:18"><a class="footnote-ref" href="#fn:18">18</a></sup> Transparantie speelt hierbij natuurlijk een cruciale rol, want hoe kan je toezicht houden als er geen openheid van zaken wordt geboden? </p>
+<p>Door deze dynamiek ontstaat een cultuur waarin het risico op <em>“transparency washing”</em> op de loer ligt: de suggestie wekken dat je transparant bent, maar daarbij bewust een keuze maken voor het delen van informatie die “veilig” is, in plaats van wat het meest betekenisvol of inzichtelijk is. Bijvoorbeeld door alleen de “simpelste” of minst impactvolle algoritmes te publiceren, of door beschrijvingen (zoals in het Algoritmeregister) bewust oppervlakkig te houden. Dit draagt niet bij aan de uiteindelijke doelen van transparantie, zoals het kunnen verantwoorden, uitleggen, of bespreekbaar maken van beslissingen op basis van algoritmes. “Iets” hebben gepubliceerd in het Algoritmeregister is niet voldoende, als dat voor de samenleving niet tot betekenisvolle inzichten leidt.</p>
+<h2 id="3-de-informatiebehoefte-vanuit-de-samenleving">3.  De informatiebehoefte vanuit de samenleving</h2>
+<p>Naast de gesprekken met de professionals binnen en buiten de overheid organiseerden Open State Foundation en The Green Land in 2024 een <strong>burgerpanel</strong> voor mensen die interesse hebben in algoritmes, maar er niet per se iets van weten. We gingen met hen in gesprek over wat zij zouden willen weten over algoritmes die de overheid gebruikt. Zij zijn immers de primair belanghebbenden als het om de toepassing van algoritmes door overheden gaat.</p>
+<p>In het gesprek met de deelnemers kwam duidelijk naar voren dat de inzet van algoritmes bij de overheid leidt tot zorgen over het gebrek aan de ‘menselijke maat’ bij de uitvoering van overheidstaken (ook omdat mensen zich bewust lijken dat generaliserende automatisering risicovol is voor de mensen die buiten ‘de norm’ vallen). Mensen vinden het belangrijk dat er uiteindelijk altijd een mens zorgvuldig kijkt naar het besluit en daar verantwoordelijkheid voor neemt. Ook een mogelijkheid om voor een ‘opt-out’ te kiezen wordt gewaardeerd: dat er (in sommige situaties) een alternatief is voor een digitaal of algoritmisch proces. Wat betreft de transparantie over algoritmes blijkt dat:</p>
+<ul>
+<li>
+<p>Het voor mensen belangrijk is om te weten dát er een (deels) geautomatiseerd besluit over hen wordt genomen, welk besluit dat is geweest en welke gegevens er door het systeem zijn gebruikt om dat besluit te onderbouwen;</p>
+</li>
+<li>
+<p>Zij niet per se alle (technische) details van een algoritmisch systeem hoeven te weten, maar er wel van op aan moeten kunnen dat het systeem ethisch verantwoord en veilig is. Een verklaring hierover van (externe) deskundigen die dit hebben onderzocht kan daarbij helpen. Op de vraag <em>wie</em> deze controle moeten doen, kwam naar voren dat de voorkeur gaat naar een externe partij, die met een (interdisiciplinair) team ervoor zorgt dat verschillende perspectieven uit de samenleving worden meegenomen.</p>
+</li>
+<li>
+<p>Zij het wel belangrijk vinden dat de samenleving actiever wordt betrokken bij keuzes in de ontwikkeling of de inzet van algoritmes door overheidsorganisaties.  </p>
+</li>
+</ul>
+<p>Het blijkt ook dat de behoefte aan informatie erg kan verschillen per mens, situatie of algoritme. Zo is met name bij minder impactvolle algoritmes de informatiebehoefte veel lager dan wanneer het bijvoorbeeld gaat om het wel of niet verstrekken van een toeslag. En meer technisch onderlegde mensen hebben juist wel behoefte aan de technische details of bijvoorbeeld broncode, zodat zij echt zelf kunnen onderzoeken hoe een algoritme werkt. Terwijl dat niet voor iedereen van toegevoegde waarde is.</p>
+<h2 id="4-onze-oplossing-het-5-sterren-model">4.  Onze oplossing: het 5 sterren-model</h2>
+<p><strong>Een raamwerk voor het stapsgewijs realiseren van transparantie</strong></p>
+<p>Ons onderzoek heeft uitgewezen dat het bieden van transparantie en openheid rond de inzet van algoritmes zeer gewenst is vanuit de samenleving. Voor de overheid is dit echter pas te realiseren wanneer dit voor organisaties concreet, behapbaar en veilig gemaakt wordt. Alleen doordat transparantie op dit moment nog te veel als einddoel wordt gezien, is het uitvoeren daarvan in de praktijk zeer lastig. Zonder een hoger doel waarvoor transparantie nodig is kunnen bepaalde vragen niet worden beantwoord, zoals <em>voor wie</em>, <em>over welke zaken, welke mate van</em> transparantie in verschillende situaties gepast of genoeg is. Dat maakt dat er op dit moment een kloof bestaat tussen beleid en uitvoering, waardoor - ondanks de druk van bovenaf - het uitvoeren van transparantie in de praktijk erg lastig is. De oplossing ligt dus in het bieden van duidelijkheid en uitvoerbaarheid aan degenen die verantwoordelijk zijn voor het in de praktijk brengen van transparantie.</p>
+<p>Uit gesprekken met experts en ervaringsdeskundigen blijkt dat een gradatie of gelaagdheid in de mate van transparantie daarbij nuttig is. Dat maakt het mogelijk om concrete ‘targets’ op te stellen om op te sturen, waardoor het makkelijker uitvoerbaar wordt. Gelaagdheid biedt bovendien de mogelijkheid om zinvolle keuzes te maken over welke informatie je aanbiedt aan wie en wanneer je dat doet. Als oplossing introduceren wij daarom een stapsgewijs raamwerk voor transparantie: het 5 sterren-model voor transparante algoritmes (zie Afbeelding 1).  </p>
+<p>Het 5 sterren-model is een hulpmiddel waarbij je per ster de transparantie over een algoritme vergroot. Met elke ster bied je de burger steeds meer de mogelijkheid om zelf te zien en beoordelen of een algoritme op een verantwoorde manier wordt ingezet. Dit begint bij het publiceren van informatie om te laten weten dát en waarvoor er een algoritme wordt gebruikt (<strong>Gepubliceerd</strong>). Vervolgens wordt het algoritme verder beschreven (<strong>Uitgelegd</strong>) en aangetoond dat het grondig is getest (<strong>Gecontroleerd</strong>). Om mensen echt zelf een beeld te kunnen laten vormen van de werking van het algoritme kunnen mensen experimenteren met in- en output (<strong>Testbaar</strong>) of de volledige broncode doorgronden (<strong>Open</strong>). Een uitgebreidere toelichting op deze stappen wordt hieronder gegeven.</p>
+<p><img alt="Het 5 sterren-model is gevisualiseerd als 5 oplopende tredes. De tredes zijn: gepubliceerd, uitgelegd, gecontroleerd, testbaar en open." src="../img/5sterren-model.svg" title="Het 5 sterren-model" /><em><strong><em>Afbeelding 1:</em></strong> _Het 5 sterren-model bestaat uit de sterren Gepubliceerd, Uitgelegd, Gecontroleerd, Testbaar en Open.</em></p>
+<h3 id="41-toelichting-op-de-5-sterren">4.1      Toelichting op de 5 sterren</h3>
+<p>Het is belangrijk om het 5 sterren-model niet als een checklist of een uitputtend overzicht te zien, maar als handvatten om na te denken over welke informatie waardevol is om te delen. Het kan per algoritme verschillen waar dat precies uit bestaat.</p>
+<p><strong>1</strong> <strong>★</strong> <strong>GEPUBLICEERD</strong></p>
+<p><strong>“Publiceer (online) wat het algoritme zou moeten doen”</strong></p>
+<p>De eerste ster wordt behaald wanneer er informatie over het algoritme en de toepassing publiek beschikbaar is. Bijvoorbeeld in het Algoritmeregister. Dat betekent dat er een beschrijving is gegeven van de algemene kenmerken van het algoritme, die minimaal bestaat uit:</p>
+<ul>
+<li>
+<p>Een beschrijving van het doel/de functie van het algoritme;</p>
+</li>
+<li>
+<p>Een beschrijving van de rol van het algoritme in relatie tot het proces waarin het gebruikt wordt;</p>
+</li>
+<li>
+<p>Een (gemotiveerde en toegelichte) classificatie van de impact van het algoritme.</p>
+</li>
+</ul>
+<p>Met deze informatie ben je transparant over het feit dát er een algoritme wordt gebruikt, waarom en waarvoor het wordt ingezet en hoe impactvol het algoritme is.</p>
+<p>Ook is het bij deze stap interessant om na te denken over de vraag of, en zo ja, hoe en wanneer, iemand geïnformeerd moet worden over dit algoritme. Bij een chatbot moet bijvoorbeeld meteen aan gebruikers duidelijk worden gemaakt dat zij te maken hebben met een bot. Daarbij kan ook naar extra informatie worden verwezen in het Algoritmeregister. En als het algoritme wordt gebruikt in een besluitvormingsproces, kan er bijvoorbeeld een link naar deze publicatie worden opgenomen bij het genomen besluit.</p>
+<p><strong>2</strong> <strong>★</strong> <strong>UITGELEGD</strong></p>
+<p><strong>“Beschrijf wat er is gedaan om ervoor te zorgen dat het algoritme doet wat het moet doen</strong></p>
+<p>Op dit niveau wordt uitgelegd hoe het algoritme werkt en hoe ervoor is gezorgd dat het goed werkt. Denk hierbij bijvoorbeeld aan de volgende onderdelen:</p>
+<ul>
+<li>
+<p>Een beschrijving van de werking van het algoritme; bijvoorbeeld door middel van een stroomschema van de input en output gedurende het proces en de daarbij gehanteerde (reken)regels;</p>
+</li>
+<li>
+<p>Beschrijving van de data die het algoritme gebruikt, of waarop het is getraind;</p>
+</li>
+<li>
+<p>Beschrijving van de nauwkeurigheid van het model en hoe er met bias om wordt gegaan;</p>
+</li>
+<li>
+<p>Welke maatregelen er zijn genomen om (maatschappelijke) risico’s te mitigeren;</p>
+</li>
+<li>
+<p>Wie of welke partijen verantwoordelijk zijn voor toezicht of onderhoud.</p>
+</li>
+</ul>
+<p>Het eerste punt kan in het algemeen worden uitgelegd, maar wanneer daar sprake van is, is het ook belangrijk om dit op individueel niveau uit te kunnen leggen. Zoals uit het burgerpanel ook bleek, willen mensen graag kunnen begrijpen op basis van welke informatie (input) een beslissing (output) tot stand is gekomen. Je kan bijvoorbeeld op het niveau van individuele burgers een dossier bijhouden van besluiten waarbij een algoritme is toegepast, met daarin een overzicht van welke gegevens zijn gebruikt, tot welke output dat heeft geleid en waarom die output het besluit rechtvaardigt. Zo krijg je als burger de mogelijkheid om het proces te begrijpen en te controleren of de gegevens kloppen.</p>
+<p><strong>3</strong> <strong>★</strong> <strong>GECONTROLEERD</strong></p>
+<p><strong>“Deel resultaten die laten zien dat het algoritme doet wat het moet doen”</strong></p>
+<p>Op dit niveau wordt niet alleen beschreven wat er gedaan is om te zorgen dat het algoritme doet wat het moet doen, maar kan dit ook aangetoond worden. Hierbij worden resultaten gedeeld die laten zien dat het algoritme “goed” en “eerlijk” werkt. Dit kan bijvoorbeeld aangetoond worden door het delen van:</p>
+<ul>
+<li>
+<p>Auditresultaten;</p>
+</li>
+<li>
+<p>Monitoringsdata;</p>
+</li>
+<li>
+<p>Resultaten van ethische toetsing (bijv. van een eventuele ethische commissie, of een IAMA-traject (Impact Assessment Mensenrechten en Algoritmes);</p>
+</li>
+<li>
+<p>Hoe het algoritme getest en gevalideerd is en wat daarvan de resultaten zijn;</p>
+</li>
+<li>
+<p>Andere resultaten van de “checks en balances” die onderdeel vormen van de life-cycle.<sup id="fnref:19"><a class="footnote-ref" href="#fn:19">19</a></sup></p>
+</li>
+</ul>
+<p>Onder experts werd dit niveau vaak genoemd als het <strong>minimale</strong> transparantieniveau dat een overheidsalgoritme zou moeten hebben. Ook bij het burgerpanel (oktober 2024) kwam het belang van een (extern) gecontroleerd en gevalideerd algoritme naar voren als essentieel voor vertrouwen van burgers in de overheid.</p>
+<p>Soms kan vanwege privacy of veiligheid niet alles van een (interne) audit gedeeld worden. Toch is dat geen excuus om nooit 3 sterren te kunnen behalen - het is geen ‘alles of niets’-transparantie. Resultaten van assessments kunnen geanonimiseerd of samengevat in een publieksversie worden gedeeld. Het belangrijkste is dat je kan laten zien hoe je het algoritme hebt getest, wat je daarin hebt meegenomen, wat de uitkomsten waren en welke eventuele maatregelen of vervolgstappen je aan die uitkomsten hebt gekoppeld. Het aantonen van een gecontroleerde werking helpt bij het opbouwen van extern vertrouwen in de werking en toepassing van een algoritme.</p>
+<p><strong>4</strong> <strong>★</strong> <strong>TESTBAAR</strong></p>
+<p><strong>“Maak het mogelijk het algoritme te testen”</strong></p>
+<p>Op dit niveau kunnen belanghebbenden zelf het algoritme gaan testen. Mensen kunnen dan zelf inzien welke output er geleverd wordt bij welke input. Dit kan bijvoorbeeld gerealiseerd worden met:</p>
+<ul>
+<li>
+<p>Een API waarmee resultaten opgevraagd kunnen worden;</p>
+</li>
+<li>
+<p>Een “mock-up” systeem;</p>
+</li>
+<li>
+<p>Test-data, eventueel “synthetisch” (niet de daadwerkelijk gevoelige data maar een vergelijkbare neutrale set).<sup id="fnref:20"><a class="footnote-ref" href="#fn:20">20</a></sup></p>
+</li>
+</ul>
+<p>Hiermee wordt het algoritme en de werking tastbaar en daarmee ook _test_baar. Dat is een voorwaarde om een open gesprek te kunnen voeren over waarom het algoritme tot bepaalde uitkomsten komt, of deze uitkomsten wenselijk zijn en (dus) of de toepassing van het algoritme in een bepaald proces verantwoord en gerechtvaardigd is.</p>
+<p>Het uitvoerig testen van een algoritme vereist technische kennis. Dit niveau is dan ook meer gericht op experts die bijvoorbeeld onderzoek willen doen naar het algoritme, of mogelijke biases. Toch is het ook denkbaar om burgers op een laagdrempelige manier te laten experimenteren met een algoritme. Bijvoorbeeld door het in een eenvoudig systeem, of via een website, mogelijk te maken om zelf te kijken welke uitkomst je krijgt wanneer je bepaalde gegevens invoert. Vergelijkbaar met online tools die alvast een inschatting kunnen geven over of je recht hebt op een toeslag,<sup id="fnref:21"><a class="footnote-ref" href="#fn:21">21</a></sup> of hoe kansrijk je VOG-aanvraag is.<sup id="fnref:22"><a class="footnote-ref" href="#fn:22">22</a></sup></p>
+<p><strong>5</strong> <strong>★</strong> <strong>OPEN</strong></p>
+<p><strong>“Stel (de ontwikkeling van) het algoritme volledig open”</strong></p>
+<p>Op dit niveau is het algoritme volledig open. De code, data, beheersmaatregelen en ontwerpkeuzes zijn volledig inzichtelijk, uiteraard op een manier die de privacy van betrokkenen niet aantast of voor onveilige situaties zorgt. De maximale openheid is bedoeld om experts of toezichthoudende partijen de mogelijkheid te geven om het algoritme volledig te doorgronden. Concreet kan dit bijvoorbeeld door middel van:</p>
+<ul>
+<li>
+<p>Het beschikbaar stellen van de broncode in combinatie met contextuele informatie, zoals een “<em>model card</em>”;<sup id="fnref:23"><a class="footnote-ref" href="#fn:23">23</a></sup></p>
+</li>
+<li>
+<p>Het beschikbaar stellen van (trainings/test)data.</p>
+</li>
+<li>
+<p>Bij de ontwikkeling en toepassing van het algoritme nadrukkelijk kiezen voor een open, participatief proces, zodat diverse perspectieven worden meegenomen.</p>
+</li>
+</ul>
+<p>Dit niveau is wellicht niet voor ieder algoritme volledig haalbaar. Daar kunnen veel verschillende redenen voor zijn. Maar zelfs als volledige openheid niet mogelijk is, dan kunnen bepaalde elementen uit dit niveau nog steeds haalbaar zijn en worden gerealiseerd. Des te meer openheid en transparantie rond een algoritme, des te groter de bijdrage aan het beter controleerbaar maken van besluitvormingsprocessen die overheidsorganisaties inzetten. Daarnaast kan het innovatie bevorderen en zelfs tips of verbeteringen van de code opleveren. Dit is ook in lijn met het open source beleid binnen de overheid.<sup id="fnref:24"><a class="footnote-ref" href="#fn:24">24</a></sup> Bovendien kwam uit het burgerpanel dat het betrekken van burgers (al dan niet experts) bij de ontwikkeling van algoritmes het vertrouwen vergroot.</p>
+<h3 id="42-doel-van-het-model">4.2      Doel van het model</h3>
+<p>Het 5 sterren-model is bedoeld als richtinggevend hulpmiddel voor alle organisaties, in het bijzonder publieke organisaties, die met algoritmes werken en die dus stappen moeten zetten met het bieden van openheid daarover. Het model helpt om ambities en doelen op het gebied van transparantie te articuleren, het gesprek erover binnen de eigen organisatie te voeren en bewustzijn hierover te creëren. Daarnaast biedt het model handvatten om deze ambities uit te voeren. Het 5 sterren-model is dus een instrument dat gericht is op 1) het helpen van bestuurders en leidinggevenden bij het articuleren van hun ambities over transparante algoritmes, en 2) het bieden van duidelijkheid over hoe transparantie in de praktijk verwezenlijkt kan worden. Met natuurlijk als uiteindelijk doel dat de samenleving voldoende inzicht heeft om de algoritmes en daarop gebaseerde keuzes te begrijpen, te vertrouwen, of te betwisten wanneer nodig. Want transparantie is geen doel op zich!</p>
+<h2 id="5-tips-om-met-het-model-aan-de-slag-te-gaan">5.  Tips om met het model aan de slag te gaan</h2>
+<p>Wil je aan de slag met het 5-sterrenmodel, maar weet je niet waar je moet beginnen? De volgende stappen kunnen helpen om met het model aan de slag te gaan: 
+1. Voer gesprekken met elkaar over wat transparantie binnen jouw organisatie betekent en wat er mogelijk is, met aandacht voor de specifieke praktische context en de kernwaarden van je organisatie;</p>
+<ol>
+<li>
+<p>Maak (op bestuurlijk niveau) afspraken over het ambitieniveau dat je voor de organisatie beoogt te bereiken. Bijvoorbeeld: “Wij willen voor alle algoritmes minimaal 3 sterren halen!”; dit geeft een gezamenlijk doel en kan ook voor urgentie zorgen om ruimte en middelen vrij te maken.</p>
+</li>
+<li>
+<p>Daarna kun je aan de slag met het in kaart brengen van:</p>
+<ul>
+<li>
+<p>De algoritmes die jouw organisatie gebruikt, ontwikkelt of inkoopt;</p>
+</li>
+<li>
+<p>Bij wie je moet zijn voor informatie over een algoritme;</p>
+</li>
+<li>
+<p>Welke afspraken er zijn met leveranciers en ontwikkelaars over het doel, de werking en de uitlegbaarheid van algoritmes;</p>
+</li>
+<li>
+<p>De mogelijke assessments die algoritmes hebben of zullen ondergaan.</p>
+</li>
+</ul>
+</li>
+</ol>
+<p>Met deze informatie in beeld kun je stap voor stap werken aan het publiceren van algoritmes. Vergeet niet: perfectionisme is de dooddoener van resultaat. Dus maak vooral een begin!</p>
+<p>Tot slot hebben we nog een aantal belangrijke aandachtspunten bij de ontwikkeling en inzet van algoritmes.</p>
+<p><strong>Hanteer het credo: open, tenzij...</strong></p>
+<p>Over het algemeen zijn overheidsorganisaties altijd gebonden aan de wettelijke (en maatschappelijke) plicht om uit te leggen wat ze doen en waarom. Je kan je dus ook afvragen of je een algoritme wat je niet kan of mag uitleggen wel moet gebruiken als onderdeel van je besluitvorming. Toch zullen mensen opmerken dat niet elk algoritme vijf sterren kán halen. Dat is een terecht punt, wanneer bijvoorbeeld privacy of de nationale veiligheid in het geding is. Het hoogst haalbare ambitieniveau dient dus altijd in context bekeken te worden. Wanneer geen volledig transparantie geboden kan worden, hoeven organisaties daar niet direct op afgerekend worden, zolang er een gegronde afweging tegenover staat. Over deze afwegingen kan wél transparantie geboden worden.</p>
+<p><strong>“Het venijn zit in de start”</strong></p>
+<p>Transparantie begint al aan de voorkant, want zonder de juiste inkoopvoorwaarden wordt het bieden van transparantie op een later moment lastig. Neem dit dus voor toekomstige projecten al mee bij het inkopen van de technologie, zodat je grip houdt op je processen, goede keuzes kunt maken en daarover verantwoording kunt afleggen.</p>
+<p><strong>Stuur op de AI-verordening</strong></p>
+<p>De Europese AI-verordening schrijft ook voor wat er dient te gebeuren op het gebied van transparantie. De eerste bepalingen van deze wet - over AI-systemen met een onaanvaardbaar risico - zijn vanaf februari 2025 van kracht. In augustus 2025 worden de bepalingen over ‘general purpose AI-modellen’ verplicht. De overheid moet op alle bestuurslagen tegemoetkomen aan de verplichtingen van de AI-verordening. Dit zorgt ook voor urgentie, omdat er dan over gepraat móet worden. Hoewel sommige organisaties al bezig zijn met het aansturen op de AI-verordening is het voor veel andere instanties nog geen urgente zaak en er ontbreekt vooral sturing, leiderschap en eigenaarschap bij de implementatie.</p>
+<p><strong>Wacht niet, maar investeer nu</strong></p>
+<p>Het begrijpen van de algoritmes die worden ingezet in de processen van je organisatie is een voorwaarde voor het kunnen bieden van betekenisvolle transparantie in de praktijk. Investeer daarom in kennis, competenties en bewustzijn binnen je organisatie. Door ruimte en middelen vrij te maken om met elkaar aan de slag te gaan met het in kaart brengen van de algoritmes, zorg je dat je veel meer grip krijgt op de processen. Nu starten maakt het uiteindelijk alleen maar makkelijker om bij te blijven. Transparantie bieden over algoritmes is namelijk niet iets wat je een keer doet, waarna je klaar bent. Het is nodig om de informatie gedurende de hele levensduur van een algoritme up-to-date te houden.</p>
+<h2 id="6-conclusie-en-call-to-arms">6.  Conclusie en <em>call to arms!</em></h2>
+<p>Het 5 sterren-model is gericht op het articuleren van organisatorische ambities, om te helpen het gesprek te voeren en urgentie en bewustzijn te creëren. Daarnaast biedt het handvatten om deze ambities uitvoerbaar te maken. Hiermee hopen we de drempel te verlagen en het handelingsvermogen te vergroten.</p>
+<p><strong>Beheerd door een open community, met Open State Foundation</strong> <strong>als ambassadeur</strong></p>
+<p>Het 5 sterren-model is een lopend project dat wordt ontwikkeld en beheerd door een open en diverse gemeenschap. Wat ons betreft is iedereen belanghebbende, of men zich daar bewust van is of niet. Iedereen die interesse heeft kan dus meewerken en is ook zeer welkom om dat te doen. Er is geen toezichthouder of certificerende partij die de sterren uitreikt; organisaties kunnen het model vrij gebruiken. We nodigen alle organisaties dan ook van harte uit om met het model aan de slag te gaan! En wees niet bang om dit samen met de samenleving te doen, door input op te halen of te toetsen of een gegeven uitleg waardevol is. Door van de gemeenschap gebruik te maken vergroot je het vertrouwen in je organisatie bij burgers en borg je deskundigheid, diversiteit en inclusie.</p>
+<p>Open State Foundation neemt als betrokken en ervaren maatschappelijke organisatie op het gebied van transparantie en openheid bij de overheid de rol van ambassadeur van het model op zich. Dat betekent dat zij hun expertise en netwerk zullen inzetten voor de verspreiding en de activatie van het 5 sterren-model. Dat kunnen zij echter niet alleen. We roepen iedereen daarom op om mee te helpen met de volgende taken:</p>
+<ul>
+<li>
+<p><strong>Doe</strong> (denk, ontwikkel en praat) <strong>mee!</strong></p>
+</li>
+<li>
+<p><strong>Spread the word:</strong> ambassadeurs op alle lagen – in de vergaderzaal, binnen de universiteiten, bij het SG-overleg, op de redacties van media, bij de kopieerapparaten, in de kroeg – zijn nodig om een beweging op gang te brengen;</p>
+</li>
+<li>
+<p><strong>Pilot cases</strong>: Werk jij bij een organisaties die bereid is om met het model aan de slag te gaan? Voel je vrij om het model te gebruiken, je inzichten te delen en hulp te vragen wanneer nodig!</p>
+</li>
+<li>
+<p><strong>Nay-sayers</strong>, say your say! We roepen <strong>kritische blikken</strong> actief op om ons te overtuigen van hoe het wél zou moeten.</p>
+</li>
+</ul>
+<p>Neem contact op via onze website <strong><a href="https://5sterrenalgoritmes.nl/">5sterrenalgoritmes.nl</a></strong> en deel je vragen en ideeën!</p>
+<h2 id="referenties">Referenties</h2>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Zie: <a href="https://www.rekenkamer.nl/publicaties/rapporten/2021/01/26/aandacht-voor-algoritmes">https://www.rekenkamer.nl/publicaties/rapporten/2021/01/26/aandacht-voor-algoritmes</a>&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>Zie: <a href="https://www.rekenkamer.nl/publicaties/rapporten/2024/10/16/focus-op-ai-bij-de-rijksoverheid">https://www.rekenkamer.nl/publicaties/rapporten/2024/10/16/focus-op-ai-bij-de-rijksoverheid</a>&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+<li id="fn:3">
+<p>Zie: <a href="https://kpmg.com/nl/nl/home/topics/digital-transformation/artificial-intelligence/algoritme-vertrouwensmonitor.html" title="https://kpmg.com/nl/nl/home/topics/digital-transformation/artificial-intelligence/algoritme-vertrouwensmonitor.html">https://kpmg.com/nl/nl/home/topics/digital-transformation/artificial-intelligence/algoritme-vertrouwensmonitor.html</a>&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+</li>
+<li id="fn:4">
+<p>De <a href="https://artificialintelligenceact.eu/article/13/" title="https://artificialintelligenceact.eu/article/13/"><em>Europese AI Act (art.13)</em></a> stelt bijvoorbeeld dat voor hoog-risico systemen geldt dat “ontworpen en ontwikkeld moeten worden zodanig dat de werking ervan voldoende transparant is om gebruikers in staat te stellen de resultaten ervan te kunnen interpreteren, en gepast kunnen gebruiken”. Ook in het <a href="https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen" title="https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen"><em>Implementatiekader Verantwoorde inzet van algoritmen</em></a> (Min. BZK) speelt transparantie een prominente rol.&#160;<a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+</li>
+<li id="fn:5">
+<p>Walmsley, J. Artificial intelligence and the value of transparency. AI &amp; Soc 36, 585–595 (2021). <a href="https://doi.org/10.1007/s00146-020-01066-z">https://doi.org/10.1007/s00146-020-01066-z</a>&#160;<a class="footnote-backref" href="#fnref:5" title="Jump back to footnote 5 in the text">&#8617;</a></p>
+</li>
+<li id="fn:6">
+<p>Zie: <a href="https://algoritmes.overheid.nl/nl" title="https://algoritmes.overheid.nl/nl">https://algoritmes.overheid.nl/nl</a>&#160;<a class="footnote-backref" href="#fnref:6" title="Jump back to footnote 6 in the text">&#8617;</a></p>
+</li>
+<li id="fn:7">
+<p>Op 29 november 2024 zijn er 609 gepubliceerde algoritmes, waarvan 430 afkomstig van gemeentes, 21 van Ministeries, 36 van zelfstandige bestuursorganen (doorgaans uitvoeringsorganisaties), en 17 van Provincies.&#160;<a class="footnote-backref" href="#fnref:7" title="Jump back to footnote 7 in the text">&#8617;</a></p>
+</li>
+<li id="fn:8">
+<p>Morley, J., Kinsey, L., Elhalal, A., Garcia, F., Ziosi, M., &amp; Floridi, L. (2023). Operationalising AI ethics: barriers, enablers and next steps. <em>AI &amp; SOCIETY</em>, 1-13.&#160;<a class="footnote-backref" href="#fnref:8" title="Jump back to footnote 8 in the text">&#8617;</a></p>
+</li>
+<li id="fn:9">
+<p>Artikel 13.3 Inkoopvoorwaarden GIBIT 2023. Zie: <a href="https://vng.nl/sites/default/files/2023-12/vng_gibit_2023_artikelen.pdf" title="https://vng.nl/sites/default/files/2023-12/vng_gibit_2023_artikelen.pdf">https://vng.nl/sites/default/files/2023-12/vng_gibit_2023_artikelen.pdf</a>. Zie ook de toelichting op Art. 13 van deze inkoopwoorwaarden, p. 27, hier te vinden: <a href="https://vng.nl/sites/default/files/2023-12/vng_gibit_2023_toelichting.pdf." title="https://vng.nl/sites/default/files/2023-12/vng_gibit_2023_toelichting.pdf.">https://vng.nl/sites/default/files/2023-12/vng_gibit_2023_toelichting.pdf.</a>&#160;<a class="footnote-backref" href="#fnref:9" title="Jump back to footnote 9 in the text">&#8617;</a></p>
+</li>
+<li id="fn:10">
+<p>Jennifer Cobbe, Michael Veale, and Jatinder Singh. 2023. Understanding accountability in algorithmic supply chains. In 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’23), June 12–15, 2023, Chicago, IL, USA. ACM, New York, NY, USA, 12 pages. https://doi.org/10. 1145/3593013.3594073&#160;<a class="footnote-backref" href="#fnref:10" title="Jump back to footnote 10 in the text">&#8617;</a></p>
+</li>
+<li id="fn:11">
+<p>Zie: <a href="https://www.mensenrechten.nl/actueel/toegelicht/toegelicht/2022/aanhoudend-foutief-gebruik-algoritmes-door-overheden-vraagt-om-bindende-discriminatietoets" title="https://www.mensenrechten.nl/actueel/toegelicht/toegelicht/2022/aanhoudend-foutief-gebruik-algoritmes-door-overheden-vraagt-om-bindende-discriminatietoets">https://www.mensenrechten.nl/actueel/toegelicht/toegelicht/2022/aanhoudend-foutief-gebruik-algoritmes-door-overheden-vraagt-om-bindende-discriminatietoets</a>&#160;<a class="footnote-backref" href="#fnref:11" title="Jump back to footnote 11 in the text">&#8617;</a></p>
+</li>
+<li id="fn:12">
+<p>Zie: <a href="https://www.rijksoverheid.nl/documenten/kamerstukken/2023/07/06/antwoord-op-schriftelijke-vragen-bevindingen-onderzoek-duo-naar-fraude-met-studiefinanciering" title="https://www.rijksoverheid.nl/documenten/kamerstukken/2023/07/06/antwoord-op-schriftelijke-vragen-bevindingen-onderzoek-duo-naar-fraude-met-studiefinanciering">https://www.rijksoverheid.nl/documenten/kamerstukken/2023/07/06/antwoord-op-schriftelijke-vragen-bevindingen-onderzoek-duo-naar-fraude-met-studiefinanciering</a>&#160;<a class="footnote-backref" href="#fnref:12" title="Jump back to footnote 12 in the text">&#8617;</a></p>
+</li>
+<li id="fn:13">
+<p>Zie: <a href="https://www.rekenkamer.nl/publicaties/rapporten/2024/10/16/focus-op-ai-bij-de-rijksoverheid" title="https://www.rekenkamer.nl/publicaties/rapporten/2024/10/16/focus-op-ai-bij-de-rijksoverheid">https://www.rekenkamer.nl/publicaties/rapporten/2024/10/16/focus-op-ai-bij-de-rijksoverheid</a>&#160;<a class="footnote-backref" href="#fnref:13" title="Jump back to footnote 13 in the text">&#8617;</a></p>
+</li>
+<li id="fn:14">
+<p>Zie: <a href="https://publications.tno.nl/publication/34642601/SASNc3ZW/TNO-2024-R11005.pdf" title="https://publications.tno.nl/publication/34642601/SASNc3ZW/TNO-2024-R11005.pdf">https://publications.tno.nl/publication/34642601/SASNc3ZW/TNO-2024-R11005.pdf</a>&#160;<a class="footnote-backref" href="#fnref:14" title="Jump back to footnote 14 in the text">&#8617;</a></p>
+</li>
+<li id="fn:15">
+<p>Zie: <a href="https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai" title="https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai">https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai</a>&#160;<a class="footnote-backref" href="#fnref:15" title="Jump back to footnote 15 in the text">&#8617;</a></p>
+</li>
+<li id="fn:16">
+<p>Zie: <a href="https://www.raadvanstate.nl/publish/library/13/digitalisering_wetgeving_en_bestuursrechtspraak.pdf" title="https://www.raadvanstate.nl/publish/library/13/digitalisering_wetgeving_en_bestuursrechtspraak.pdf">https://www.raadvanstate.nl/publish/library/13/digitalisering_wetgeving_en_bestuursrechtspraak.pdf</a>&#160;<a class="footnote-backref" href="#fnref:16" title="Jump back to footnote 16 in the text">&#8617;</a></p>
+</li>
+<li id="fn:17">
+<p>Zie: <a href="https://publicaties.mensenrechten.nl/file/1405c7ee-821e-29f1-6d06-58971cf25a3d.pdf" title="https://publicaties.mensenrechten.nl/file/1405c7ee-821e-29f1-6d06-58971cf25a3d.pdf">https://publicaties.mensenrechten.nl/file/1405c7ee-821e-29f1-6d06-58971cf25a3d.pdf</a>&#160;<a class="footnote-backref" href="#fnref:17" title="Jump back to footnote 17 in the text">&#8617;</a></p>
+</li>
+<li id="fn:18">
+<p>Zie: <a href="https://www.rijksoverheid.nl/documenten/rapporten/2022/12/05/inrichting-algoritmetoezicht" title="https://www.rijksoverheid.nl/documenten/rapporten/2022/12/05/inrichting-algoritmetoezicht">https://www.rijksoverheid.nl/documenten/rapporten/2022/12/05/inrichting-algoritmetoezicht</a> en <a href="https://magazines.rdi.nl/staatvandeether/2021/01/toezicht-op-ai-inspecties-delen-kennis" title="https://magazines.rdi.nl/staatvandeether/2021/01/toezicht-op-ai-inspecties-delen-kennis">https://magazines.rdi.nl/staatvandeether/2021/01/toezicht-op-ai-inspecties-delen-kennis</a>&#160;<a class="footnote-backref" href="#fnref:18" title="Jump back to footnote 18 in the text">&#8617;</a></p>
+</li>
+<li id="fn:19">
+<p>Zoals de <a href="https://ieeexplore.ieee.org/document/9380498" title="https://ieeexplore.ieee.org/document/9380498">Z-Inspection methode</a>, waarmee bij de overheid al wordt <a href="https://www.rijksorganisatieodi.nl/rijks-ict-gilde/mycelia/pilot-kunstmatige-intelligentie" title="https://www.rijksorganisatieodi.nl/rijks-ict-gilde/mycelia/pilot-kunstmatige-intelligentie">geëxperimenteerd</a>.&#160;<a class="footnote-backref" href="#fnref:19" title="Jump back to footnote 19 in the text">&#8617;</a></p>
+</li>
+<li id="fn:20">
+<p>Zie: <a href="https://www.tno.nl/en/technology-science/technologies/synthetic-data-secure-learning-from/">https://www.tno.nl/en/technology-science/technologies/synthetic-data-secure-learning-from/</a>&#160;<a class="footnote-backref" href="#fnref:20" title="Jump back to footnote 20 in the text">&#8617;</a></p>
+</li>
+<li id="fn:21">
+<p>Zie: <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/content/hulpmiddel-proefberekening-toeslagen" title="https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/content/hulpmiddel-proefberekening-toeslagen">https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/content/hulpmiddel-proefberekening-toeslagen</a>&#160;<a class="footnote-backref" href="#fnref:21" title="Jump back to footnote 21 in the text">&#8617;</a></p>
+</li>
+<li id="fn:22">
+<p>Zie: <a href="https://vogcheck.justis.nl/" title="https://vogcheck.justis.nl/">https://vogcheck.justis.nl/</a>&#160;<a class="footnote-backref" href="#fnref:22" title="Jump back to footnote 22 in the text">&#8617;</a></p>
+</li>
+<li id="fn:23">
+<p>Bedacht door Margaret Mitchell, voorheen ethicus bij Google: <a href="https://arxiv.org/abs/1810.03993" title="https://arxiv.org/abs/1810.03993">https://arxiv.org/abs/1810.03993</a>&#160;<a class="footnote-backref" href="#fnref:23" title="Jump back to footnote 23 in the text">&#8617;</a></p>
+</li>
+<li id="fn:24">
+<p>Zie: <a href="https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/open-source/beleid/" title="https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/open-source/beleid/">https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/open-source/beleid/</a>&#160;<a class="footnote-backref" href="#fnref:24" title="Jump back to footnote 24 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Terug naar boven
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.sections", "navigation.sections.expand", "toc.integrate", "navigation.indexes"], "search": "../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.f13b1293.min.js"></script>
+      
+    
+  </body>
+</html>
