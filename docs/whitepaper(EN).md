@@ -82,12 +82,7 @@ Interviews with experts and practitioners show that a gradation or stratificatio
 
 The 5-star model is a tool where, star-by-star, you increase transparency about an algorithm. With each star, you increasingly offer citizens the opportunity to see and judge for themselves whether an algorithm is being used responsibly. This starts with publishing information to let people know that an algorithm is being used and what it is being used for (Published). Then the algorithm is further described (Explained) and shown to have been thoroughly tested (Verified). To let people really form their own picture of how the algorithm works, people can experiment with inputs and outputs (Testable) or work through the full source code (Open). A more detailed explanation of these steps is given below.
 
-Figure 1: The 5-star model consists of the stars Published, Explained, Verified, Testable and Open.
-Published: Publish online what the algorithm should do
-Explained: Describe what has been done to ensure that the algorithm does what it is supposed to do
-Verified: Share results showing that the algorithm does what it is supposed to do
-Testable: Make it possible to test the algorithm
-Open: Open up the algorithm completely
+![The 5 star model is visualised by 5 ascending steps. The steps are: published, explained, verified, testable and open.](./img/5-starrmodel.png "The 5-star model") **_Figure 1:_** _The 5-star model consists of the stars Published, Explained, Verified, Testable and Open._
 
 ### 4.1 Explanation of the 5 stars
 
